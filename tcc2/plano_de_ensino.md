@@ -77,22 +77,25 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  |   | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite". |
-|  2  |   | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite".  |
-|  3  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  4  |   | 2hs  | **Avaliação 1. Entrega de termos de orientação.** |
-|  5  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  6  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  7  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  8  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  9  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  10 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  11 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  12 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  13 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  14 |   | 2hs  | **Avaliação 2. Entrega de trabalho para banca.** |
-|  15 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  16 |   | 2hs  | **Avaliação 3. Entrega de versão final do trabalho.** |
+|  1  | 28/fev  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite".  |
+|  2  | 7/mar  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite". |
+|  3  | 14/mar  | 2hs  | Acompanhamento do trabalho aluno-orientador.  |
+|  4  | 21/mar  | 2hs  | **Avaliação 1. Entrega de termos de orientação.** |
+|  5  | 28/mar  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|    | 4/abr  |  | Não letivo |
+|  6  | 11/abr  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  7  | 18/abr  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  8  | 25/abr  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|    | 2/mai  |   | Não letivo |
+|  9  | 9/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  10 | 16/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  11 | 23/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  12 | 30/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|   | 6/jun  |  | Não letivo |
+|   | 13/jun  |   |  Feriado  |
+|  13 | 20/jun  | 2hs  | **Avaliação 2, entrega de versão final do trabalho.** |
+|  14 | 27/jun  | 2hs  | **Acompanhamento de bancas.** |
+|  15 | 4/jul  | 2hs  | **Avaliação 3, entrega de versão final do trabalho.** |
 
 
 ## :date: 3. Datas de avaliações
