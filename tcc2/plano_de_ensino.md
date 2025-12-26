@@ -72,29 +72,29 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 14/08  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite". |
-|  2  | 21/08  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite".  |
-|  3  | 23/08  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  4  | 30/08  | 2hs  | **Avaliação 1. Entrega de termos de orientação.** |
-|  5  | 06/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  6  | 13/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  7  | 20/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  8  | 27/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  9  | 04/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  10 | 11/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  11 | 18/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  12 | 25/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  13 | 01/11  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  14 | 08/11  | 2hs  | **Avaliação 2. Entrega de trabalho para banca.** |
-|  15 | 22/11  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  16 | 29/11  | 2hs  | **Avaliação 3. Entrega de versão final do trabalho.** |
+|  1  |   | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite". |
+|  2  |   | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite".  |
+|  3  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  4  |   | 2hs  | **Avaliação 1. Entrega de termos de orientação.** |
+|  5  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  6  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  7  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  8  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  9  |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  10 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  11 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  12 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  13 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  14 |   | 2hs  | **Avaliação 2. Entrega de trabalho para banca.** |
+|  15 |   | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  16 |   | 2hs  | **Avaliação 3. Entrega de versão final do trabalho.** |
 
 
 ## :date: 3. Datas de avaliações
 
-* Avaliação 1: /09/2025
-* Avaliação 2: /10/2025
-* Avaliação 3: /11/2025
+* Avaliação 1: __/__/2026
+* Avaliação 2: __/__/2026
+* Avaliação 3: __/__/2026
 
 
 ---
@@ -164,60 +164,27 @@ No momento os professores que temos no curso são:
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
-| 1| 20230054556 |ALAN PASQUALETTO                | Janecler Foppa | Análise da Funcionalidade do Sistema UAU com Base no Modelo de Gestão COBIT 2019	| ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-| 2| 2006123575  |ANDRÉ VICENTE	                  | Ivan Luiz Pedroso Pires| Ferramentas digitais e inteligência artificial no terceiro ano: suporte ao desenvolvimento da alfabetização | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-| 3| 2016256664  |BERNARDO POYER GABE AMERICO     | |  |  | | |	
-| 4| 2019171472  |BRUNA EDUARDA DOS SANTOS SILVA	| João Ricardo Dos Santos Rosa | Assessibilidade, usabilidade e experiência do usuário aplicados no autoatendimento do banco do brasil para pessoas da terceira idade | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-| 5| 2018270346  |CHRISTIAN DA SILVA ALBUQUERQUE  | Elias Antônio Morgan | Sistema inteligente para comparação de preços de supermercados com alimentação automatizada de banco de dados | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-| 6| 2017263267  |CLEDERSON BRUSCO	              | Benevid Feliz da Silva| Alimentador de pets | ✔️  | | |
-| 7| 2021017881  |DANIEL ARLINDO DE O. CARLING	  | Ramilton Costa Gomes Junior | Monitoramento de Infraestrutura de Rede Hospitalar com Zabbix  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-| 8| 2016256628  |DEOCLIDES ORMOND BORGES	        | Francisco Sanches Banhos Filho |  Implantação de um servidor no cartório do 1° Ofício de Sorriso utilizando virtualização | ✔️ | | |
-| 9| 20220038058 |EWERTON OLEGARIO DOS SANTOS	    | Janecler Foppa | Migração de sistemas legados para frameworks emergentes com ênfase Oracle Apex | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|10| 2019171596  |FELIPE CHRISTOPHER FAVARO ROCHA | Ramilton Costa Gomes Junior | Análise do uso de redes sociais durante as aulas no ensino superior: Um estudo baseado no tráfego de rede  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|11| 20220010048 |FELIPE LEAL ALVES	              | Elias Antônio Morgan | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA | ✔️ | | |
-|12| 2019274866  |GABRIEL FERNANDO BRAND	        | Ramilton Costa Gomes Junior | Sistema web de controle de honorários contábeis: automação e gestão financeira | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|13| 2018165104  |GABRIEL SMANIOTTO ARAUJO	      | Janecler Foppa | Classificação de imagens com aprendizado de máquina: uma análise bibliográfica | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓falta entrega de artigo |
-|14| 2018270250  |GABRIELLE CANDIDO SCHMITT	      | Francisco Sanches Banhos Filho |Ánalise da cobertura vacinal no mato grosso e desenvolvimento de dashboards interativos | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	      | Janecler Foppa | Gestão de Feedback como Ferramenta Estratégica | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|16| 2017263349  |HANS DONNER GIL ESPINHA	        | | |  | | |
-|17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|18| 20220001915 |JULIO DA SILVA RODRIGUES	      | Ramilton Costa Gomes Junior | A importância dos sistemas nas tarefas das empresas | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan Luiz Pedroso Pires | Smart Drawer: Frontend web responsivo para sistema ciberfísico de reservas e acesso automatizado | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆projeto + ata |
-|20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano Soares Monteiro | IPPA-Bank - Integração Power BI e Power Automate para performance de agências bancárias. | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata|
-|21| 2020177772  |LEONARDO OLIVEIRA DE MORAES     | Maicon Aparecido Sartin | Sistema web para otimização de processos de classificação de grãos visando a análise de dados com dashboard e KPI’s| ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|22| 2019274037  |LEONARDO PALIN DOS SANTOS       | Janecler Foppa | Inovação e sustentabilidade: A Biomimética na automação residencial | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|23| 2021023109  |LUCAS PEREIRA RIBEIRO CORRÊA	  | Ivan Luiz Pedroso Pires | Um estudo sobre LLMs na gestão e otimização de infraestruturas urbanas em cidades inteligentes | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata|
-|24| 2018165940  |MARCOS JUNIOR DA SILVA	        | João Ricardo Dos Santos Rosa | Estudo de usabilidade da plataforma Lattes: Identificação de barreiras e propostas de redesign |✔️ | | |
-|25| 2018165059  |MARIA THAIS SILVA MARQUES       | Tales Nereu Bogoni | Desenvolvimento de uma aplicação mobile para consulta de horários de missas na cidade de Sinop - MT | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|26| 20220016346 |MATHEUS LEANDRO HOLOWKA	        | Emiliano Soares Monteiro | DIMA - Dashboard integrado de métricas de atendimento, da área de computação aplicada | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Sistema Para Escolinhas de Futebol | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | Ramilton Costa Gomes Junior | Regressão linear como ferramenta para modelos de predição em machine learning  | ✔️ | | |
-|29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| Ramilton Costa Gomes Junior | App Inclusivo: Descrição de imagens para pessoas com deficiência visual | ✔️ | | |
-|30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	  | |  |  | | |
-|31| 2019171804  |ROBERTO DOS SANTOS FILHO	      | Elias Antônio Morgan | Solução para gestão de vulnerabilidades e mitigação de ameaças cibernéticas | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|32| 2013123533  |VAGNO VALADARES DA COSTA	      | Juliano Fernandes de Avila | Realidade Aumentada como Ferramenta Pedagógica | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|33| 2019171149  |VINÍCIUS VIVAN DE LIMA	        | Benevid Feliz da Silva | Especialização de modelos de IA: Fine-tuning aplicado a documentos corporativos. | ✔️ |✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	|  Benevid Feliz da Silva  | Gestão de romoaneio  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|35| 2021018341  |WINY ZANIN                      | Ivan Luiz Pedroso Pires| Smart Drawer: Backend para sistema ciberfísico de reservas e acesso automatizado  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
+| 1|  | |  | 	|  |  | |
+| 2|  | |  | 	|  |  | |
+| 3|  | |  | 	|  |  | |
+| 4|  | |  | 	|  |  | |
+| 5|  | |  | 	|  |  | |
 
-Total de alunos matriculados: 35.<br>
-Total de entregas na 3a etapa: 26.<br>
+
+Total de alunos matriculados: ...<br>
+Total de entregas na 3a etapa: ...<br>
 
 ---
 ## 📆 7. Calendário geral
 
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true)
+![]()
 
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true)
 
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png?raw=true)
-
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro_v2.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro_v2.png)
 
 ---
 ## 📆 8. Calendário de bancas
 
-https://docs.google.com/spreadsheets/d/10WSTtnyBfY_iTxNSjjsYdQmgTMDXbcTkMBrO2Lt4m-8/edit?usp=view
+
 
 ---
 ## 📺 9. Vídeos recomendados
@@ -317,7 +284,7 @@ e
 ---
 ## 12. Estatísticas de TCC
 
-https://docs.google.com/presentation/d/1NLFbsbOinrP0NqKC8VaQsYR-GuMs4ry-J5gads-L624/edit?usp=view
+
 
 ---
 ### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
