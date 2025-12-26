@@ -1,7 +1,7 @@
 # Disciplinas e projetos do Prof. Dr. Emiliano S. Monteiro
 
 - [Disciplinas e projetos do Prof. Dr. Emiliano S. Monteiro](#disciplinas-e-projetos-do-prof-dr-emiliano-s-monteiro)
-- [🎯 1. Disciplinas para 2025/2.](#-1-disciplinas-para-20252)
+- [🎯 1. Disciplinas para 2026/1.](#-1-disciplinas-para-20261)
 - [🗺️ 2. Mapa do curso](#️-2-mapa-do-curso)
 - [🌳 3. Link tree do curso](#-3-link-tree-do-curso)
   - [📘 3.1 Templates de documentos](#-31-templates-de-documentos)
@@ -15,7 +15,7 @@
 
 
 
-# 🎯 1. Disciplinas para 2025/2.
+# 🎯 1. Disciplinas para 2026/1.
 
 * 1️⃣ [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/projeto_bd/plano_de_ensino.md)
 * 2️⃣ [Introdução à engenharia de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/plano_de_ensino.md)
