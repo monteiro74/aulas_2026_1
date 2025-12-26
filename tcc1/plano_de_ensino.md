@@ -428,7 +428,6 @@ e
 ---
 ## 13. Estatísticas de TCC
 
-https://docs.google.com/presentation/d/1NLFbsbOinrP0NqKC8VaQsYR-GuMs4ry-J5gads-L624/edit?usp=view
 
 ---
 ### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
