@@ -31,7 +31,7 @@
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
-![]()
+![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Gemini_Generated_Image_7qeitf7qeitf7qei.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Gemini_Generated_Image_7qeitf7qeitf7qei.png)
 
 
 
