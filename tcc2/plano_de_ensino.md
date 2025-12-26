@@ -31,6 +31,7 @@
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
+![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Gemini_Generated_Image_mx0to1mx0to1mx0t.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Gemini_Generated_Image_mx0to1mx0to1mx0t.png)
 
 ---
 ## :game_die: 1. Turma: TCC2
