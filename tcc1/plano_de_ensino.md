@@ -39,8 +39,7 @@
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
----
-![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Gemini_Generated_Image_p6z3jvp6z3jvp6z3.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Gemini_Generated_Image_p6z3jvp6z3jvp6z3.png)
+
 
 
 ---
