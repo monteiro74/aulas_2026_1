@@ -53,6 +53,8 @@
 
 ### :watch: 1.1. Carga Horária Total: 60
 
+Sala C8
+
 ### :hourglass_flowing_sand: 1.2. Horário: 19hs - 22hs
 
 ### :page_with_curl: 1.3. Ementa
