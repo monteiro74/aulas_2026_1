@@ -6,6 +6,7 @@
 - [:game\_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)](#game_die-1-turma-tcc1-facet-snp-336---trabalho-de-conclusão-de-curso-i---t01-20252)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
   - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas.](#hourglass_flowing_sand-12-horário-30-horas)
+  - [Reuniões:](#reuniões)
   - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
   - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
   - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
@@ -48,6 +49,10 @@
 ### :watch: 1.1. Carga Horária Total: 30
 
 ### :hourglass_flowing_sand: 1.2. Horário: 30 horas.
+
+### Reuniões: 
+
+Na sala C7, Quarta feira: 22hs, ocorrem somente quando o coordenador de TCC realizar agendamento!
 
 ### :page_with_curl: 1.3. Ementa
 
