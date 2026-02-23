@@ -146,7 +146,25 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 26/fev | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Ranking de bancos de dados](https://db-engines.com/en/ranking). [Slides da aula](https://docs.google.com/presentation/d/e/2PACX-1vSRYcBjWwaSQ7CtSO_JAYhzch5RD6ga9G37BJe7X2IA5WX_03s5LQ8MOfzO-O4LvEgoCimjHEp06skH/pub?start=false&loop=false&delayms=3000) |
+| 1   | 26/fev | 3hs          | Apresentação da disciplina. Conceitos iniciais necessários da disciplina. conceitos básicos sobre bancos de dados, referências bibliográficas. Ranking de bancos de dados. |
+| 2   | 05/mar | 3hs          | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
+| 3   | 12/mar | 3hs          | Instalação de máquina virtual (virtual box), detalhes do SQL Server. |
+| 4   | 19/mar | 3hs          | Instalação de VM. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. |
+| 5   | 26/mar | 3hs          | Avaliação 1. |
+| 6   | 09/abr | 3hs          | Conhecendo o SSMS (sql server management studio). Monitorando o SQL Server e propriedades do servidor. |
+| 7   | 16/abr | 3hs          | Modelo ER, normalização de dados. |
+| 8   | 23/abr | 3hs          | Joins no SQL Server. SQL Server, criação de tabelas, Modelo de dados relacional, SQL Joins no SQL Server. |
+| 9   | 30/abr | 3hs          | Exercício pratico de modelagem de dados. |
+|10   | 07/mai | 3hs          | Avaliação 2.  |
+|11   | 14/mai | 3hs          | Blockchain. Blockchain,Lab com Multichain. |
+|12   | 21/mai | 3hs          | Blockchain, NoSQL e bancos distribuídos. |
+|13   | 28/mai | 3hs          | Vetoriais, Blockchain de 2ª camada, Blockchain no DB, bancos multi modelo, tendências, artigos, FISCO BCOS, ML. |
+|14   | 11/jun | 3hs          | Revisão de bancos de dados distribuídos x blockchain. |
+|15   | 18/jun | 3hs          |Avaliação 3. |
+
+
+
+
 | 2   | 05/mar | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. [Slides da aula 2](https://docs.google.com/presentation/d/e/2PACX-1vQS7F9wsXhfxDK9lCwSeTAricxAnKKJh_Mbcyq-SnbOGEQTOAZ0W0q03xEGrMfWDuI_DP9dqAKZpeWv/pub?start=false&loop=false&delayms=3000). [Instalação do SQL Server](https://docs.google.com/presentation/d/e/2PACX-1vSdSRJF2YEI9D0U48sGimqfWDxzFlJJHfcFesiBrJyCKZ68K4RL5T70kBA_7TdwIqo6j1AVjOI3Z0xr/pub?start=false&loop=false&delayms=3000) |
 | 3   | 12/mar  | 3hs | Instalação de máquina virtual (virtual box), detalhes do SQL Server. [Slides da aula 3](https://docs.google.com/presentation/d/e/2PACX-1vQSNWOafk6jdNL5Ib1tVpdrzGPMMlYYJ4dyXckRVVHl0xL9P0ygddjeIVJYN24w_Lx6dmyuAlSpccFD/pub?start=false&loop=false&delayms=3000). |
 | 4   | 19/mar | 3hs |Instalação de VM. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. [Slides da aula 4](https://docs.google.com/presentation/d/e/2PACX-1vRXdeXYCc-eCUPaNqAVpBJtYfxTDAHqVj9odY_-t1vNerSnlPQJ3SK79uTSt8117erAzD5U8Gr1GVSE/pub?start=false&loop=false&delayms=3000).  |
@@ -166,9 +184,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ## :date: 5. Unidades de avaliações
 
-* Avaliação 1: __/__/2026.
-* Avaliação 2: __/__/2026.
-* Avaliação 3: __/__/2026.
+* Avaliação 1: 26/03/2026.
+* Avaliação 2: 07/05/2026.
+* Avaliação 3: 18/06/2026.
 
 ---
 ## :hammer_and_wrench: 6. Links para download de ferramentas
