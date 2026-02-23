@@ -187,6 +187,9 @@ No momento os professores que temos no curso são:
 |16| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
 |17| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3.Técnicas de scrapping. |
 
+.
+
+
 
 ### 🧑‍🎓 6.1. Relação Aluno x Professor x Tema:
 
