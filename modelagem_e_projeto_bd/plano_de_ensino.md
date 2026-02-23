@@ -65,29 +65,55 @@
 
 ### :page_with_curl: 1.4. Metodologia
 
-* Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
-* Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
-* Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
+A disciplina será conduzida por meio de aulas expositivas e dialogadas, com apresentação estruturada de conceitos teóricos e práticos, incentivando a participação ativa dos estudantes por meio de questionamentos, discussões orientadas e resolução de exemplos aplicados.
+
+Serão utilizados comentários e análises de casos reais, situações práticas e exemplos relacionados ao contexto profissional, incluindo a apresentação e discussão de produtos, ferramentas e tecnologias correlatas aos temas abordados na disciplina, visando aproximar o conteúdo acadêmico da realidade do mercado e da pesquisa aplicada.
+
+As atividades poderão envolver demonstrações práticas, análise de materiais complementares e discussões coletivas, buscando consolidar a compreensão conceitual e o desenvolvimento do raciocínio crítico.
+
+As aulas complementares, reposições ou atividades remotas (EaD) serão realizadas por meio de conteúdos disponibilizados na plataforma SIGAA e nos ambientes digitais da disciplina, incluindo leituras orientadas, vídeos, exercícios e atividades práticas, constituindo parte integrante do processo de aprendizagem. Os alunos devem como parte da carga horária EAD: trazer ferramentas e datasets previamente baixados e instalados.
 
 ###  :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 
-**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
+Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
-**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
+Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
-A **carga horária remota/EAD** será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
+A [carga horária remota/EAD] será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
 
-A **1ª avaliação** terá o conteúdo das aulas de 1 a 5.
+A 1ª avaliação terá o conteúdo das aulas de 1 a 5.
 
-A **2ª avaliação** terá o conteúdo das aulas 6 a 9.
+A 2ª avaliação terá o conteúdo das aulas 6 a 10.
 
-A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
+A 3ª avaliação terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
 
 Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5, 10 e 15, teremos as avaliações.
 
-**Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 6,0. Alunos com nota >= 4,0 e < 6,0 têm direito à nota de exame final. 
+Carga Horária Remota (EAD):
 
-**Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
+A carga horária remota (15 horas) será desenvolvida por meio de atividades orientadas de aprendizagem assíncrona, complementares às aulas presenciais, com o objetivo de aprofundar conceitos, promover autonomia acadêmica e preparar o estudante para as avaliações da disciplina.
+
+As atividades EAD deverão ser realizadas pelos alunos ao longo do semestre, conforme cronograma disponibilizado pelo professor, podendo incluir:
+
+a) Leitura orientada de artigos científicos e/ou materiais técnicos selecionados pelo professor, disponibilizados no SIGAA, site da disciplina ou repositório oficial no GitHub. Os conteúdos poderão ser discutidos em sala de aula e/ou cobrados nas avaliações presenciais.
+
+b) Visualização de vídeos técnicos e aulas complementares indicados pelo professor, relacionados aos conteúdos abordados na disciplina, podendo ser objeto de discussão em aula e avaliação.
+
+c) Instalação, configuração e utilização de ferramentas computacionais selecionadas pelo professor e disponibilizadas no repositório da disciplina no GitHub, com finalidade prática de experimentação dos conceitos estudados. O uso dessas ferramentas poderá ser solicitado em atividades presenciais e/ou avaliações.
+
+d) Produção de atividades de consolidação da aprendizagem, tais como registros reflexivos, exercícios comentados, pequenos relatórios técnicos, participação em fóruns acadêmicos ou outras atividades orientadas na plataforma EaD da instituição, podendo ou não possuir atribuição de pontuação.
+
+O material utilizado nas atividades EAD poderá compor o conteúdo das avaliações presenciais.
+
+As atividades serão disponibilizadas por meio do SIGAA e repositório oficial da disciplina no GitHub, constituindo parte integrante da carga horária da disciplina.
+
+Notas: Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 6,0. Alunos com nota >= 4,0 e < 6,0 têm direito à nota de exame final.
+
+Prova final: (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá escrita objetiva (tipo canetão). O conteúdo será... TODO o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
+
+A realização das atividades EAD constitui requisito para acompanhamento adequado da disciplina, sendo responsabilidade do estudante cumprir as orientações e prazos estabelecidos.
+
+
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento
 
