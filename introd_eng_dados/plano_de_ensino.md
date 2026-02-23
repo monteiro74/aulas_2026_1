@@ -37,14 +37,6 @@
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
 - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
 - [📄 16. Assuntos diversos](#-16-assuntos-diversos)
-- [💬 17. Algoritmo Apriori](#-17-algoritmo-apriori)
-- [🛸 18. Exemplo de processo NLP](#-18-exemplo-de-processo-nlp)
-  - [🛰️ 18.1. Resumo sobre NLP:](#️-181-resumo-sobre-nlp)
-- [🚀 19. Resumo comparativo de soluções Cloud](#-19-resumo-comparativo-de-soluções-cloud)
-- [:game\_die: 20. Resumo de projetos Apache para engenharia de dados](#game_die-20-resumo-de-projetos-apache-para-engenharia-de-dados)
-  - [:game\_die: 20.1. Outra forma de vialização](#game_die-201-outra-forma-de-vialização)
-    - [20.1.1. Mapa de Projetos Apache com Funções Similares](#2011-mapa-de-projetos-apache-com-funções-similares)
-    - [20.1.2. Outra forma de visualização](#2012-outra-forma-de-visualização)
 - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -64,31 +56,87 @@
 
 ### :page_with_curl: 1.4. Metodologia
 
-* Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
-* Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
-* Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
+A disciplina será conduzida por meio de aulas expositivas e dialogadas, com apresentação estruturada de conceitos teóricos e práticos, incentivando a participação ativa dos estudantes por meio de questionamentos, discussões orientadas e resolução de exemplos aplicados.
+
+Serão utilizados comentários e análises de casos reais, situações práticas e exemplos relacionados ao contexto profissional, incluindo a apresentação e discussão de produtos, ferramentas e tecnologias correlatas aos temas abordados na disciplina, visando aproximar o conteúdo acadêmico da realidade do mercado e da pesquisa aplicada.
+
+As atividades poderão envolver demonstrações práticas, análise de materiais complementares e discussões coletivas, buscando consolidar a compreensão conceitual e o desenvolvimento do raciocínio crítico.
+
+As aulas complementares, reposições ou atividades remotas (EaD) serão realizadas por meio de conteúdos disponibilizados na plataforma SIGAA e nos ambientes digitais da disciplina, incluindo leituras orientadas, vídeos, exercícios e atividades práticas, constituindo parte integrante do processo de aprendizagem. Os alunos devem como parte da carga horária EAD: trazer ferramentas e datasets previamente baixados e instalados.
 
 [Retornar ao Sumário](#sumário)
 
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 
-**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
+Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
-**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
+ 
 
-A **carga horária remota/EAD** será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
+Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
-A **1ª avaliação** terá o conteúdo das aulas de 1 a 5.
+ 
 
-A **2ª avaliação** terá o conteúdo das aulas 6 a 9.
+A [carga horária remota/EAD] será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
 
-A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
+ 
+
+A 1ª avaliação terá o conteúdo das aulas de 1 a 5.
+
+A 2ª avaliação terá o conteúdo das aulas 6 a 10.
+
+A 3ª avaliação terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
+
+ 
 
 Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5, 10 e 15, teremos as avaliações.
 
-**Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 6,0. Alunos com nota >= 4,0 e < 6,0 têm direito à nota de exame final. 
 
-**Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
+
+Carga Horária Remota (EAD):
+
+ 
+
+A carga horária remota (15 horas) será desenvolvida por meio de atividades orientadas de aprendizagem assíncrona, complementares às aulas presenciais, com o objetivo de aprofundar conceitos, promover autonomia acadêmica e preparar o estudante para as avaliações da disciplina.
+
+ 
+
+As atividades EAD deverão ser realizadas pelos alunos ao longo do semestre, conforme cronograma disponibilizado pelo professor, podendo incluir:
+
+ 
+
+a) Leitura orientada de artigos científicos e/ou materiais técnicos selecionados pelo professor, disponibilizados no SIGAA, site da disciplina ou repositório oficial no GitHub. Os conteúdos poderão ser discutidos em sala de aula e/ou cobrados nas avaliações presenciais.
+
+ 
+
+b) Visualização de vídeos técnicos e aulas complementares indicados pelo professor, relacionados aos conteúdos abordados na disciplina, podendo ser objeto de discussão em aula e avaliação.
+
+ 
+
+c) Instalação, configuração e utilização de ferramentas computacionais selecionadas pelo professor e disponibilizadas no repositório da disciplina no GitHub, com finalidade prática de experimentação dos conceitos estudados. O uso dessas ferramentas poderá ser solicitado em atividades presenciais e/ou avaliações.
+
+ 
+
+d) Produção de atividades de consolidação da aprendizagem, tais como registros reflexivos, exercícios comentados, pequenos relatórios técnicos, participação em fóruns acadêmicos ou outras atividades orientadas na plataforma EaD da instituição, podendo ou não possuir atribuição de pontuação.
+
+ 
+
+O material utilizado nas atividades EAD poderá compor o conteúdo das avaliações presenciais.
+
+ 
+
+As atividades serão disponibilizadas por meio do SIGAA e repositório oficial da disciplina no GitHub, constituindo parte integrante da carga horária da disciplina.
+
+
+
+Notas: Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 6,0. Alunos com nota >= 4,0 e < 6,0 têm direito à nota de exame final.
+
+ 
+
+Prova final: (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá escrita objetiva (tipo canetão). O conteúdo será... TODO o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
+
+
+
+A realização das atividades EAD constitui requisito para acompanhamento adequado da disciplina, sendo responsabilidade do estudante cumprir as orientações e prazos estabelecidos.
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento
 
@@ -121,34 +169,34 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 25/fev  | 3hs  | Apresentação da disciplina. Conceitos de engenharia de dados. Sites comentados em aula: [Threatmap](https://threatmap.checkpoint.com/), [Cybermap](https://cybermap.kaspersky.com/), [Internet-map](https://internet-map.net/), [he-net 3d map](https://he.net/3d-map/), [Submarine cable](https://www.submarinecablemap.com/submarine-cable/monet), [Satellitemap](https://satellitemap.space/#), [Anaconda](https://www.anaconda.com/ai-platform), [Conjunto de dados pessoa jurídica](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj), [Receita Federal dados abertos](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos), [Certificado Profissional de Engenharia de dados da IBM](https://www.coursera.org/professional-certificates/ibm-data-engineer), [Curso de engenharia de dados na ENAP](https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&inscricoes=Aberta&temas=An%C3%A1lise+e+Ci%C3%AAncia+de+Dados). <br> [Referências bibliográficas](https://docs.google.com/presentation/d/1sH1cxApXY1FauZdu24ivqSkpQQZkZll3W0l8JE9roWM/view).<br> [Slides de aulas](https://docs.google.com/presentation/d/e/2PACX-1vRABFWKF0SNwC4C9kSFemQ0u9Mf8Ji-fEe4pP6bR8E5mREE-WIql78QtLlOKR0wYWjDmgcGqfEZR_dU/pub?start=false&loop=false&delayms=3000).|
-|  2  | 4/mar  | 3hs  | Processo KDD (knowledge Discovery in Database), padrão, Processo CRISP DM. MinIO e S3. [Dados abertos](https://docs.google.com/presentation/d/e/2PACX-1vRb4jzXYM8tkzwk8Yr4j1l6LRa8GCLvlqM1C2iyfMuypdT4FXfwh-fFNs9BwXdGrSJP_QvP13lAkSy-/pub?start=false&loop=false&delayms=3000), [Slides de aula](https://docs.google.com/presentation/d/e/2PACX-1vSGBanUdgGRBPTSpohCRxtDXQyPo1kw5T9-bdJdO2Zz3EtYhmvDmpVGFr6M6QeL-8QhCZ5CadI4g5wt/pub?start=false&loop=false&delayms=3000). |
-|  3  | 11/mar  | 3hs  | Tarefa:  1. Após ter baixado o banco de dados da RF, descompactar. 2. Crie um banco de dados vazio no MySQL. 3. Importar o banco para um servidor MySQL. 4. Se houverem tabelas divididas em vários arquivos, importe somente o primeiro. Atenção: 1. Os arquivos estão em formato CSV. 2. Use o dicionário de dados em PDF se desejar. Limpeza de dados, campos vazios, estatísticas descritiva. |
-|  4  | 18/mar  | 3hs  | Limpeza de dados, campos vazios, estatísticas descritiva. [Slides da aula 4](https://docs.google.com/presentation/d/e/2PACX-1vQD35oljv1L9E45UTQz9qNprG_2AHq3JLgGs3npYfN9ZaRJM-YsKqcnoXVaB1e30NNJZ_GUSpq2AE1T/pub?start=false&loop=false&delayms=3000), [Slides sobre Orange](https://docs.google.com/presentation/d/e/2PACX-1vRaUwzuf1SjWsRgLRE_WSbuqPlXuJlnfK-1FZ6JDx7VKVjxc5YlE-E8bsNq_tnZFtg5tlrZ1sdDQXHj/pub?start=false&loop=false&delayms=3000). |
-|  5  | 25/mar  | 3hs  | Semana de extensão |
-|  6  | 1/abr  | 3hs  | **Avaliação 1** Agrupamento e classificação no Orange Data Ming. Dados abertos. Apache Hadoop.  |
-|  7  | 8/abr  | 3hs  | Agrupamento ou clustering e classificação, DW e dados abertos. Slides de aula: [Agrupamento ou clustering e Classificação](https://docs.google.com/presentation/d/1_p1miaeUzt8_iM1ve2I8vjw1ZlcacAoNJdmVsuhyZSk/edit?usp=view), [Clusterização e classificação no Orange](https://docs.google.com/presentation/d/1sFAXgEINfylLKRuEF-SXvGnyh3LslSzx_3IKtfbrv_0/edit?usp=view), [Dados abertos](https://docs.google.com/presentation/d/1RBy702NKYwX7Ttr3Fi57xXPdQfFir_knCTsWTSFlCCg/edit?usp=view), [Modelagem DW](https://docs.google.com/presentation/d/1Kv3BJPMUHjHkC4s-nLC9pH7czH_hSEpQaTcvuKVSLHg/edit?usp=view). |
-|  8  | 15/abr  | 3hs  | Formatos abertos, os 5 V do big data, Pentaho PDI. Slides de aula: [Parte 1](https://docs.google.com/presentation/d/1fODaQz0ieGWfXZcFT0j4Bx9omuB0y9OfhEvmp-JZi2o/edit?usp=view), [Parte 2](https://docs.google.com/presentation/d/1PV1JgXDa-s9dAIZAObMBvq4O5VTefVqcENUhLPaNpNg/edit?usp=view)|
-|  9  | 22/abr  | 3hs  | Associação, NLP, Apriori, slides de aula: [Parte 1](https://docs.google.com/presentation/d/1JTITJEfOAeTI9_BNs_DaQV-JNv4lyndeK6CaEgcxPeA/edit?usp=view), [Parte 2](https://docs.google.com/presentation/d/1C0J2MrNX8Vao62cedWj1rBqerKGT6QyLyHs_wEXCcO4/edit?usp=view). |
-|  10 | 29/abr  | 3hs  | **Avaliação 2.** |
-|  11 | 6/mai  | 3hs  | [Análise de redes sociais](https://docs.google.com/presentation/d/1tlMywdzeJ8Q8Q5ZP5uh6-mznJY1axxVhn1FDzSSg_lc/edit?usp=view), [Enriquecimento de dados](https://docs.google.com/presentation/d/1t5uwylSfE9oq-by8U1KSA44k9dBZ5upogj-17uqPE7U/edit?usp=view), [Movimentação de dados no Pentaho](https://docs.google.com/presentation/d/1KQiYOY-xh326Lg17JzbJ-I_rUp_KwVUPVxMsxLk9JBY/edit?usp=view), [Virtualização de dados](https://docs.google.com/presentation/d/1pORrFHFuKtOtydgtP0Eb0U7LvaEnypFVQezdb1GR1qQ/edit?usp=view), [Big data](https://docs.google.com/presentation/d/11dhwuhwERycOaKYhRdORX5ag7EZVz-3jqOpbhJwGdfQ/edit?usp=view). |
-|  12 | 13/mai  | 3hs  | Orquestração, Dark Data, Data Lineage, Regressão Linear, Streamlit. [Caso de conversão de dados](https://docs.google.com/presentation/d/1OOfiEkjDdwqtPMWRRjKVYI3VM3KtqEjkEPoBJidoXmA/edit?usp=view), [Orquestração, storytelling, catélogo, dark data, dark lineage](https://docs.google.com/presentation/d/111Sw4ZUwnmFOrCpbtD5O6khFw6lFcTs_IjjmzPKk3-c/edit?usp=view), [Regressão linear](https://docs.google.com/presentation/d/12Zw4YreBC2uxmi-2FUGBK0-NjsgEIa0Qa6OfA1uHv1Y/edit?usp=view). https://github.com/monteiro74/exercicio_streamlit, https://exercicioapp-into-eng-dados-v2.streamlit.app/. |
-|  13 | 20/mai  | 3hs  | [Bibliometria, infometria, RIS](https://docs.google.com/presentation/d/147qjKB3aldT3GaSY5_e7aE7MqvFjyqFHISg4sIE7j0Y/edit?usp=view), [Bibliometria com vozviewer](https://docs.google.com/presentation/d/11u8XBApK1rmx0MwXdWDkH5YBfkMjpmZTtuKtONbpGyA/edit?usp=view), [Data stream, Apache kafka, apache Spark](https://docs.google.com/presentation/d/1WzSjtYKeF_BOulmLM1pQiUMnPeKx8I8TQ7xqO313R88/edit?usp=view), [OpenRefine](https://docs.google.com/presentation/d/1lQSZXjPI1EvuOII05yQNn9E3ZA1yPtekCtLh8jntANw/edit?usp=view), [Qualidade de dados](https://docs.google.com/presentation/d/139O9bH8U2qsYt1xgpahb30zGH3MQycp_jjxTkHjUCLg/edit?usp=view). [HP BladeSystem c-Class enclosure](https://www.hp.com/ctg/Manual/c00815957.pdf), [HP blade system c7000](http://servidor-hp.com.co/netcomp/documentacion/hp-bladesystem-c7000-enclosure-servidor-manual-servidor-hp.com.co.pdf). |
-|  14 | 27/mai  | 3hs  | [Governança](https://docs.google.com/presentation/d/1UjkX4DeLv4hhVYUky--_gFp-BKFR1PwieiiFfzrGE38/edit?usp=view), [Tendências na área de eng. dados](https://docs.google.com/presentation/d/1OqAe_PBE3HunUUCkQ5bfOlqzhokaWSJy5NIZh4hhaJY/edit?usp=view). |
-|  15 | 3/jun  | 3hs  | **Avaliação 3.** |
+|  1  | 25/fev | 3hs          | Apresentação da disciplina. Conceitos de engenharia de dados. |
+|  2  | 04/mar | 3hs          | Processo KDD, Processo CRISP DM, ferramentas. |
+|  3  | 11/mar | 3hs          | Exercício com dados abertos. |
+|  4  | 18/mar | 3hs          | Limpeza de dados, campos vazios, estatísticas descritiva. |
+|  5  | 25/mar | 3hs          | **Avaliação 1.** |
+|  6  | 01/abr | 3hs          | Agrupamento e classificação, dados abertos. |
+|  7  | 08/abr | 3hs          | Agrupamento ou clustering e classificação, DW e dados abertos. |
+|  8  | 15/abr | 3hs          | Formatos abertos, os 5 V do big data, Pentaho PDI. |
+|  9  | 22/abr | 3hs          | Associação, NLP, Apriori. |
+| 10  | 29/abr | 3hs          | **Avaliação 2.** |
+| 11  | 06/mai | 3hs          | Análise de redes sociais, Enriquecimento de dados, Movimentação de dados no Pentaho, Virtualização de dados, Big data.|
+| 12  | 13/mai | 3hs          | Orquestração, Dark Data, Data Lineage, Regressão Linear, Streamlit. |
+| 13  | 20/mai | 3hs          | Bibliometria, infometria, RIS, Bibliometria com vozviewer, Data stream, Apache kafka, apache Spark, OpenRefine. |
+| 14  | 27/jun | 3hs          | Governança, Tendências na área de eng. dados. |
+| 15  | 03/jun | 3hs          | **Avaliação 3.** |
 
 
 ## :date: 5. Datas de avaliações
 
-* Avaliação 1: __/__/2026
-* Avaliação 2: __/__/2026
-* Avaliação 3: __/__/2026
+* Avaliação 1: 25/03/2026
+* Avaliação 2: 29/04/2026
+* Avaliação 3: 03/06/2026
 
 
 ---
 ## :hammer_and_wrench: 6. Ferramentas
 
-Algumas ferramentas são usadas em sala de aula (na lista abaixo da 1 até a 14) outras são comentadas.
+Algumas ferramentas são usadas e/ou comentadas em sala de aula (na lista abaixo da 1 até a 14) outras são comentadas.
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -468,450 +516,7 @@ Algoritmos classificadores, comparação:
 ## 📄 16. Assuntos diversos
 
 
----
-##  💬 17. Algoritmo Apriori
 
-```mermaid
-flowchart TD
-    A[Início] --> B[Coletar dados]
-    B --> C[Formatar transações]
-    C --> D[Gerar conjuntos de itens]
-    D --> E[Calcular suporte]
-    E --> F{Suporte suficiente?}
-    F -- Sim --> G[Marcar como frequente]
-    F -- Não --> H[Descartar]
-    G --> I[Gerar regras]
-    I --> J[Calcular confiança e lift]
-    J --> K{Confiança suficiente?}
-    K -- Sim --> L[Guardar regra]
-    K -- Não --> M[Descartar]
-    L --> N[Exibir resultados]
-    M --> N
-
-```
-
----
-## 🛸 18. Exemplo de processo NLP
-
-```mermaid
-flowchart TD
-    A[Segmentação de Sentenças] --> B[Tokenização de Palavras]
-    B --> C[Lematização de Texto]
-    C --> D[Remoção de Palavras Vazias]
-    D --> E[Análise de Dependência Sintática]
-    E --> F[Reconhecimento de Entidades Nomeadas - REN]
-    F --> G[Resolução de Correferência]
-    G --> H[Aplicações em PLN - Resumo - Perguntas e Respostas]
-```
-
-
-
-### 🛰️ 18.1. Resumo sobre NLP:
-
-Sentence Segmentation
-➤ Divide o texto em frases distintas, identificando limites com base em pontuação e estrutura linguística.
-
-Word Tokenization
-➤ Quebra cada frase em palavras ou unidades menores chamadas tokens.
-
-Text Lemmatization
-➤ Reduz as palavras à sua forma canônica (ex: "correram", "correndo" → "correr").
-
-Stop Words
-➤ Remove palavras muito frequentes e com pouca carga semântica, como "e", "de", "para".
-
-Dependency Parsing in NLP
-➤ Analisa as relações sintáticas entre palavras, revelando quem depende de quem na estrutura da frase.
-
-Named Entity Recognition (NER)
-➤ Identifica e classifica nomes próprios no texto, como pessoas, locais, organizações e datas.
-
-Coreference Resolution
-➤ Detecta quando diferentes palavras ou pronomes se referem à mesma entidade (ex: "João saiu. Ele...").
-
-## 🚀 19. Resumo comparativo de soluções Cloud
-
-![https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg)
-
-
-## :game_die: 20. Resumo de projetos Apache para engenharia de dados
-
-```mermaid
-
-
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#000','primaryBorderColor':'#333','lineColor':'#333','secondaryColor':'#f4f4f4','tertiaryColor':'#fff','background':'#ffffff','mainBkg':'#ffffff','secondBkg':'#f9f9f9'}}}%%
-
-graph TD
-    Title["<b>PROJETOS APACHE PARA ENGENHARIA DE DADOS 2024-2025</b>"]
-    
-    Title --> Orchestration
-    Title --> Streaming
-    
-    subgraph Orchestration["🎯 CAMADA DE ORQUESTRAÇÃO"]
-        Airflow["<b>Apache Airflow</b><br/>Workflow Engine<br/>320M downloads/2024"]
-        DolphinScheduler["<b>Apache DolphinScheduler</b><br/>Visual Workflow<br/>Cloud Native"]
-    end
-    
-    Orchestration --> Integration
-    Orchestration --> Processing
-    
-    subgraph Streaming["🔥 CAMADA DE STREAMING"]
-        Kafka["<b>Apache Kafka</b><br/>Event Streaming<br/>Backbone de Dados"]
-        Pulsar["<b>Apache Pulsar</b><br/>Pub-Sub Messaging<br/>Multi-tenancy"]
-    end
-    
-    subgraph Integration["🔌 CAMADA DE INTEGRAÇÃO"]
-        NiFi["<b>Apache NiFi</b><br/>Data Flow<br/>Visual Integration"]
-        Flume["<b>Apache Flume</b><br/>Log Collection<br/>Distributed"]
-        Sqoop["<b>Apache Sqoop</b><br/>SQL Transfer<br/>Hadoop ↔ RDBMS"]
-    end
-    
-    Integration --> Processing
-    Streaming --> Processing
-    
-    subgraph Processing["⚡ CAMADA DE PROCESSAMENTO"]
-        Spark["<b>Apache Spark</b><br/>Batch & Stream<br/>In-Memory Processing"]
-        Flink["<b>Apache Flink</b><br/>Stream Processing<br/>Real-time"]
-        Beam["<b>Apache Beam</b><br/>Unified Model<br/>Batch + Stream"]
-        DataFusion["<b>Apache DataFusion</b><br/>Query Engine<br/>Rust-based TLP"]
-    end
-    
-    Processing --> Storage
-    Processing --> Analytics
-    
-    subgraph Storage["🗄️ CAMADA DE ARMAZENAMENTO"]
-        direction TB
-        subgraph TableFormats["Formatos de Tabela Lakehouse"]
-            Iceberg["<b>Apache Iceberg</b><br/>Table Format<br/>⭐ Líder 2024"]
-            Hudi["<b>Apache Hudi</b><br/>Table Format<br/>Real-time Ingestion"]
-            Paimon["<b>Apache Paimon</b><br/>Table Format<br/>Streaming Lakehouse"]
-        end
-        
-        subgraph FileFormats["Formatos de Arquivo"]
-            Parquet["<b>Apache Parquet</b><br/>Columnar Storage<br/>Comprimido"]
-            Arrow["<b>Apache Arrow</b><br/>In-Memory Format<br/>Cross-language"]
-            ORC["<b>Apache ORC</b><br/>Columnar Storage<br/>Otimizado Hive"]
-        end
-        
-        subgraph StorageSystems["Sistemas de Storage"]
-            HDFS["<b>Apache HDFS</b><br/>Distributed FS<br/>Hadoop Foundation"]
-            Cassandra["<b>Apache Cassandra</b><br/>NoSQL DB<br/>Wide Column"]
-            HBase["<b>Apache HBase</b><br/>NoSQL DB<br/>Column-oriented"]
-        end
-    end
-    
-    Storage --> Analytics
-    Storage --> DataWarehouse
-    
-    subgraph Analytics["📊 CAMADA DE ANALYTICS"]
-        Druid["<b>Apache Druid</b><br/>OLAP Database<br/>Real-time Analytics"]
-        Pinot["<b>Apache Pinot</b><br/>Real-time OLAP<br/>Sub-second Queries"]
-        Kylin["<b>Apache Kylin</b><br/>OLAP Cube<br/>Pre-computed"]
-    end
-    
-    subgraph DataWarehouse["🏞️ DATA WAREHOUSE"]
-        Hive["<b>Apache Hive</b><br/>Data Warehouse<br/>SQL on Hadoop"]
-        Impala["<b>Apache Impala</b><br/>MPP SQL Engine<br/>High Performance"]
-    end
-    
-    Analytics --> Visualization
-    DataWarehouse --> Visualization
-    
-    subgraph Visualization["📈 CAMADA DE VISUALIZAÇÃO"]
-        Superset["<b>Apache Superset</b><br/>BI Platform<br/>Open Source"]
-    end
-    
-    Storage --> Metadata
-    
-    subgraph Metadata["🗂️ CAMADA DE METADADOS & GOVERNANÇA"]
-        Gravitino["<b>Apache Gravitino</b><br/>Unified Metastore<br/>⭐ TLP 2025"]
-        XTable["<b>Apache XTable</b><br/>Format Converter<br/>Bi-directional"]
-        Atlas["<b>Apache Atlas</b><br/>Data Governance<br/>Metadata Framework"]
-    end
-    
-    %% Estilos com fundo branco
-    classDef default fill:#ffffff,stroke:#333,stroke-width:2px,color:#000
-    classDef highlight fill:#e3f2fd,stroke:#1976d2,stroke-width:3px,color:#000
-    classDef leader fill:#fff3e0,stroke:#f57c00,stroke-width:3px,color:#000
-    classDef new fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px,color:#000
-    
-    class Iceberg,Gravitino leader
-    class Airflow,Kafka,Spark highlight
-    class Paimon,DataFusion new
-    class Title default
-
-
-```
-
-
----
-### :game_die: 20.1. Outra forma de vialização
-
-
-#### 20.1.1. Mapa de Projetos Apache com Funções Similares
-
-> Diagrama em **Markdown + Mermaid** agrupando projetos da Apache Software Foundation por função e destacando grupos com tarefas similares.
-
-```mermaid
-graph LR
-  %% Layout simples e compatível
-
-  %% 1) Ingestão & Mensageria
-  subgraph A_Ingestao_e_Mensageria
-    Kafka((Kafka))
-    Pulsar((Pulsar))
-    RocketMQ((RocketMQ))
-    ActiveMQ((ActiveMQ_Artemis))
-    NiFi([NiFi])
-    Camel([Camel])
-
-    Kafka --- Pulsar --- RocketMQ
-    ActiveMQ --- Camel
-    NiFi --- Camel
-  end
-
-  %% 2) Processamento (Batch e Streaming)
-  subgraph B_Processamento_Batch_e_Streaming
-    Flink((Flink))
-    Spark((Spark))
-    Beam((Beam))
-    Storm((Storm))
-    Samza((Samza))
-
-    Flink --- Spark --- Beam
-    Storm --- Samza
-  end
-
-  %% 3) Armazenamento & Formatos
-  subgraph C_Armazenamento_e_Formatos
-    Iceberg((Iceberg))
-    Hudi((Hudi))
-    Hive((Hive))
-
-    Parquet[Parquet]
-    ORC[ORC]
-    Avro[Avro]
-    Arrow[Arrow]
-
-    Iceberg --- Hudi --- Hive
-    Parquet --- ORC
-    Avro --- Arrow
-  end
-
-  %% 4) Orquestração
-  subgraph D_Orquestracao
-    Airflow((Airflow))
-    Dolphin((DolphinScheduler))
-    Oozie((Oozie))
-
-    Airflow --- Dolphin --- Oozie
-  end
-
-  %% 5) SQL & Query Engines
-  subgraph E_SQL_e_Query_Engines
-    Drill((Drill))
-    Presto((Presto_ou_Trino))
-    Impala((Impala))
-    Calcite[Calcite]
-
-    Drill --- Presto --- Impala
-    Calcite -. usado_por .-> Drill
-    Calcite -. usado_por .-> Flink
-    Calcite -. usado_por .-> Hive
-  end
-
-  %% 6) Governança & Segurança
-  subgraph F_Governanca_e_Seguranca
-    Atlas((Atlas))
-    Ranger((Ranger))
-    Knox((Knox))
-    Sentry((Sentry))
-
-    Atlas --- Ranger --- Knox --- Sentry
-  end
-
-  %% 7) Infra & Bancos (Big Data)
-  subgraph G_Infra_e_Bancos
-    Hadoop((Hadoop_HDFS))
-    HBase((HBase))
-    Cassandra((Cassandra))
-    Kudu((Kudu))
-    Druid((Druid))
-
-    Hadoop --- HBase
-    Hadoop --- Kudu
-    Cassandra --- Kudu
-    Druid
-  end
-
-  %% 8) Visualização & Notebooks
-  subgraph H_Visualizacao_e_Notebooks
-    Superset((Superset))
-    Zeppelin((Zeppelin))
-
-    Superset --- Zeppelin
-  end
-
-  %% Conexões entre camadas (exemplo conceitual)
-  Kafka --> Flink
-  Pulsar --> Flink
-  NiFi --> Flink
-  Flink --> Iceberg
-  Spark --> Iceberg
-  Iceberg --> Presto
-  Iceberg --> Drill
-  Hive --> Presto
-  Airflow -. orquestra .-> Flink
-  Airflow -. orquestra .-> Spark
-  Atlas -. catalogo_linhagem .-> Hive
-  Ranger -. seguranca .-> Hive
-```
-
-
-**Legenda rápida**
-
-* **Arestas sólidas (---)**: projetos com *funções similares* ou forte sobreposição.
-* **Arestas pontilhadas (-.-)**: dependência/uso/integração típica (ex.: orquestração, catálogo, segurança).
-* **Nós arredondados**: motores/plataformas principais.
-* **Nós retangulares**: formatos de arquivo ou bibliotecas.
-
-
-#### 20.1.2. Outra forma de visualização
-
-
-
-```mermaid
-
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#000','primaryBorderColor':'#333','lineColor':'#666','secondaryColor':'#f8f9fa','tertiaryColor':'#fff','background':'#ffffff','mainBkg':'#ffffff','secondBkg':'#f0f0f0'}}}%%
-
-graph LR
-    subgraph Input["📥 CAMADA DE ENTRADA"]
-        direction TB
-        K1["<b>Apache Kafka</b><br/>Event Streaming"]
-        P1["<b>Apache Pulsar</b><br/>Messaging"]
-        N1["<b>Apache NiFi</b><br/>Data Flow"]
-        F1["<b>Apache Flume</b><br/>Log Collection"]
-        S1["<b>Apache Sqoop</b><br/>RDBMS Transfer"]
-    end
-    
-    subgraph Orchestrate["🎯 ORQUESTRAÇÃO"]
-        direction TB
-        A1["<b>Apache Airflow</b><br/>⭐ 320M downloads"]
-        D1["<b>Apache DolphinScheduler</b><br/>Cloud Native"]
-    end
-    
-    subgraph Process["⚡ PROCESSAMENTO"]
-        direction TB
-        
-        subgraph Batch["Batch Processing"]
-            SP1["<b>Apache Spark</b><br/>⭐ In-Memory"]
-            B1["<b>Apache Beam</b><br/>Unified API"]
-        end
-        
-        subgraph Stream["Stream Processing"]
-            FL1["<b>Apache Flink</b><br/>⭐ Real-time"]
-            DF1["<b>Apache DataFusion</b><br/>Rust Query Engine"]
-        end
-    end
-    
-    subgraph Store["🗄️ ARMAZENAMENTO"]
-        direction TB
-        
-        subgraph Lakehouse["🏞️ Data Lakehouse"]
-            I1["<b>Apache Iceberg</b><br/>⭐ Líder 2024"]
-            H1["<b>Apache Hudi</b><br/>Upserts/Deletes"]
-            PA1["<b>Apache Paimon</b><br/>Streaming Tables"]
-        end
-        
-        subgraph Warehouse["🏛️ Data Warehouse"]
-            HV1["<b>Apache Hive</b><br/>SQL on Hadoop"]
-            IM1["<b>Apache Impala</b><br/>MPP Engine"]
-        end
-        
-        subgraph NoSQL["💾 NoSQL Databases"]
-            C1["<b>Apache Cassandra</b><br/>Wide Column"]
-            HB1["<b>Apache HBase</b><br/>Column Family"]
-        end
-        
-        subgraph Files["📦 File Formats"]
-            PR1["<b>Apache Parquet</b><br/>Columnar"]
-            AR1["<b>Apache Arrow</b><br/>In-Memory"]
-            OR1["<b>Apache ORC</b><br/>Optimized"]
-        end
-        
-        subgraph DFS["💿 File Systems"]
-            HD1["<b>Apache HDFS</b><br/>Distributed FS"]
-        end
-    end
-    
-    subgraph Analyze["📊 ANALYTICS"]
-        direction TB
-        
-        subgraph OLAP["OLAP Engines"]
-            DR1["<b>Apache Druid</b><br/>Real-time"]
-            PI1["<b>Apache Pinot</b><br/>Sub-second"]
-            KY1["<b>Apache Kylin</b><br/>OLAP Cubes"]
-        end
-    end
-    
-    subgraph Govern["🔐 GOVERNANÇA"]
-        direction TB
-        G1["<b>Apache Gravitino</b><br/>⭐ TLP 2025<br/>Unified Metastore"]
-        X1["<b>Apache XTable</b><br/>Format Converter"]
-        AT1["<b>Apache Atlas</b><br/>Metadata & Lineage"]
-    end
-    
-    subgraph Output["📤 CAMADA DE SAÍDA"]
-        direction TB
-        SU1["<b>Apache Superset</b><br/>BI & Visualization"]
-    end
-    
-    %% Fluxo principal
-    Input --> Orchestrate
-    Orchestrate --> Process
-    Process --> Store
-    Store --> Analyze
-    Analyze --> Output
-    
-    %% Governança conecta com Storage
-    Store -.-> Govern
-    Govern -.-> Store
-    
-    %% Relacionamentos específicos
-    K1 --> FL1
-    K1 --> SP1
-    
-    SP1 --> I1
-    FL1 --> I1
-    FL1 --> PA1
-    
-    I1 --> DR1
-    I1 --> PI1
-    HV1 --> KY1
-    
-    DR1 --> SU1
-    PI1 --> SU1
-    
-    %% Estilos
-    classDef inputStyle fill:#e3f2fd,stroke:#1976d2,stroke-width:2px,color:#000
-    classDef orchestrateStyle fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#000
-    classDef processStyle fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
-    classDef storeStyle fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000
-    classDef analyzeStyle fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#000
-    classDef governStyle fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#000
-    classDef outputStyle fill:#e0f2f1,stroke:#00796b,stroke-width:2px,color:#000
-    classDef highlight fill:#ffeb3b,stroke:#f57c00,stroke-width:3px,color:#000
-    
-    class Input,K1,P1,N1,F1,S1 inputStyle
-    class Orchestrate,A1,D1 orchestrateStyle
-    class Process,Batch,Stream,SP1,B1,FL1,DF1 processStyle
-    class Store,Lakehouse,Warehouse,NoSQL,Files,DFS storeStyle
-    class Analyze,OLAP,DR1,PI1,KY1 analyzeStyle
-    class Govern,G1,X1,AT1 governStyle
-    class Output,SU1 outputStyle
-    class I1,A1,G1 highlight
-
-```
 
 ---
 ## 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

@@ -73,35 +73,44 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ---
 ## :date: 2. Datas de aulas e conteúdo
 
+28/02/2026 Aula 1: Orientações sobre o TCC com o prof. de TCC
 
-|Aula | Data   | Carga horária| Conteúdo |
-|-----|--------|--------------|----------|
-|  1  | 28/fev  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite".  |
-|  2  | 7/mar  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite". |
-|  3  | 14/mar  | 2hs  | Acompanhamento do trabalho aluno-orientador.  |
-|  4  | 21/mar  | 2hs  | **Avaliação 1. Entrega de termos de orientação.** |
-|  5  | 28/mar  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|    | 4/abr  |  | Não letivo |
-|  6  | 11/abr  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  7  | 18/abr  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  8  | 25/abr  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|    | 2/mai  |   | Não letivo |
-|  9  | 9/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  10 | 16/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  11 | 23/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  12 | 30/mai  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|   | 6/jun  |  | Não letivo |
-|   | 13/jun  |   |  Feriado  |
-|  13 | 20/jun  | 2hs  | **Avaliação 2, entrega de versão final do trabalho.** |
-|  14 | 27/jun  | 2hs  | **Acompanhamento de bancas.** |
-|  15 | 4/jul  | 2hs  | **Avaliação 3, entrega de versão final do trabalho.** |
+07/03/2026 Aula 2: Orientações sobre o TCC com o prof. de TCC.
+
+14/03/2026 Aula 3: Acompanhamento do trabalho aluno-orientador.
+
+21/03/2026 Aula 4: Aula 3: Acompanhamento do trabalho aluno-orientador.
+	
+28/03/2026 Aula 5: Avaliação 1. Entrega de termos de orientação.
+	
+11/04/2026 Aula 6: Acompanhamento do trabalho aluno-orientador.
+	
+18/04/2026 Aula 7: Acompanhamento do trabalho aluno-orientador.
+	
+25/04/2026 Aula 8: Acompanhamento do trabalho aluno-orientador.
+	
+09/05/2026 Aula 9: Acompanhamento do trabalho aluno-orientador.
+	
+16/05/2026 Aula 10: Acompanhamento do trabalho aluno-orientador.
+	
+23/05/2026 Aula 11: Acompanhamento do trabalho aluno-orientador.
+	
+30/05/2026 Aula 12: Avaliação 2. Entrega de trabalho para banca.
+	
+30/05/2026 Aula 13: Acompanhamento do trabalho aluno-orientador. Bancas.
+	
+13/06/2026 Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
+	
+20/06/2026 Aula 15: Acompanhamento do trabalho aluno-orientador. Bancas.
+	
+27/06/2026 Aula 16: Acompanhamento do trabalho aluno-orientador. Bancas.
 
 
 ## :date: 3. Datas de avaliações
 
-* Avaliação 1: __/__/2026
-* Avaliação 2: __/__/2026
-* Avaliação 3: __/__/2026
+* Avaliação 1: 21/03/2026
+* Avaliação 2: 30/05/2026
+* Avaliação 3: 13/06/2026
 
 
 ---
@@ -157,7 +166,7 @@ No momento os professores que temos no curso são:
 |7 | EMILIANO SOARES MONTEIRO      | MODELAGEM E PROJETO DE BANCO DE DADOS <br> INTRODUÇÃO À ENGENHARIA DE DADOS| 1. IoT, tratamento de dados via ETL e dashboards. <br> 2. Blockchain privadas. <br> 3. Desenvolvimento de sistemas de gestão empresariais (ERP, BI, CRM, etc). <br> 4. Operações de ETL e dashboards de BI. <br> 5. Desenvolvimento mobile (com .NET Maui). |
 |8| FRANCISCO SANCHES B. FILHO    | LABORATÓRIO DE BANCO DE DADOS <br> ESTRUTURAS DE DADOS | 1. Arquiteturas de Big Data (Data Lakes, Lakehouses). <br> 2. Pipelines de dados (ETL/ELT) otimizados e automatizados. <br> 3. Visualização de dados e análise exploratória em larga escala. <br> 4. Escalabilidade, resiliência e consistência em sistemas distribuídos. <br> 5. Computação em Nuvem (Cloud), de Borda (Edge) e Névoa (Fog). <br> 6. Protocolos de comunicação e otimização de desempenho em redes. <br> 7. Bancos de dados distribuídos (NoSQL, NewSQL). <br> 8. Modelos de programação paralela (MPI, OpenMP, CUDA). <br> 9. Projeto e análise de algoritmos paralelos. <br> Virtualização de recursos de HPC. <br> 10. Ecossistema Apache Hadoop/Yarn.|
 |9 |IVAN LUIZ PEDROSO PIRES        | FRAMEWORKS MODERNOS PARA DESENVOLVIMENTO DE SISTEMAS| Sistemas web |
-|10|JANECLER FOPPA                 | PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO | 1. Tópicos Especiais em computação aplicada. <br> 2. Interação Homem Computador. <br> 3. Gestão de tecnologia da Informação. |
+|10|JANECLER FOPPA                 | PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO | 1. Governança. COBIT x ITIL. <br> 2. Metodologias, processos e ferramentas. <br> 3. Documentação de processos.  <br> 4. Planejamento estratégico. <br> 5.  Monitoração e avaliação de TI. <br> 6. Tópicos Especiais em computação aplicada. <br> 7. Interação Homem Computador. <br> 8. Gestão de tecnologia da Informação. <br> |
 |11|JOAO RICARDO DOS SANTOS ROSA   | ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES <br> INTRODUÇÃO AO DESENVOLVIMENTO WEB | 1. Acessibilidade. <br> 2. Usabilidade. <br> 3. UX. <br> 4. Engenharia de software. <br> 5. Engenharia de requisitos. <br> 6. Design ou prototipação. <br> 7. Interação humano-computador |
 |12| JULIANO FERNANDES DE AVILA    | DESENVOLVIMENTO WEB <br> GERÊNCIA DE PROJETOS DE SOFTWARE| TICs, Educação e Tecnologia, Inovação na Prática Educacional |
 |13| MAICON APARECIDO SARTIN       | INTRODUÇÃO ÀS REDES DE COMPUTADORES <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO TECNOLÓGICA | 1. Dispositivos reconfiguráveis (FPGA). <br> 2. Automação ou Aplicações com Sistemas Embarcados e Microcontroladores. <br> 3. Redes de Sensores sem Fio. <br> 4. IA. <br> 5. Aprendizado de Máquina e Profundo. <br> 6. Visão Computacional. |

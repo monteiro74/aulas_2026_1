@@ -65,29 +65,55 @@
 
 ### :page_with_curl: 1.4. Metodologia
 
-* Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
-* Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
-* Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
+A disciplina será conduzida por meio de aulas expositivas e dialogadas, com apresentação estruturada de conceitos teóricos e práticos, incentivando a participação ativa dos estudantes por meio de questionamentos, discussões orientadas e resolução de exemplos aplicados.
+
+Serão utilizados comentários e análises de casos reais, situações práticas e exemplos relacionados ao contexto profissional, incluindo a apresentação e discussão de produtos, ferramentas e tecnologias correlatas aos temas abordados na disciplina, visando aproximar o conteúdo acadêmico da realidade do mercado e da pesquisa aplicada.
+
+As atividades poderão envolver demonstrações práticas, análise de materiais complementares e discussões coletivas, buscando consolidar a compreensão conceitual e o desenvolvimento do raciocínio crítico.
+
+As aulas complementares, reposições ou atividades remotas (EaD) serão realizadas por meio de conteúdos disponibilizados na plataforma SIGAA e nos ambientes digitais da disciplina, incluindo leituras orientadas, vídeos, exercícios e atividades práticas, constituindo parte integrante do processo de aprendizagem. Os alunos devem como parte da carga horária EAD: trazer ferramentas e datasets previamente baixados e instalados.
 
 ###  :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 
-**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
+Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
-**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
+Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
-A **carga horária remota/EAD** será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
+A [carga horária remota/EAD] será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
 
-A **1ª avaliação** terá o conteúdo das aulas de 1 a 5.
+A 1ª avaliação terá o conteúdo das aulas de 1 a 5.
 
-A **2ª avaliação** terá o conteúdo das aulas 6 a 9.
+A 2ª avaliação terá o conteúdo das aulas 6 a 10.
 
-A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
+A 3ª avaliação terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
 
 Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5, 10 e 15, teremos as avaliações.
 
-**Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 6,0. Alunos com nota >= 4,0 e < 6,0 têm direito à nota de exame final. 
+Carga Horária Remota (EAD):
 
-**Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
+A carga horária remota (15 horas) será desenvolvida por meio de atividades orientadas de aprendizagem assíncrona, complementares às aulas presenciais, com o objetivo de aprofundar conceitos, promover autonomia acadêmica e preparar o estudante para as avaliações da disciplina.
+
+As atividades EAD deverão ser realizadas pelos alunos ao longo do semestre, conforme cronograma disponibilizado pelo professor, podendo incluir:
+
+a) Leitura orientada de artigos científicos e/ou materiais técnicos selecionados pelo professor, disponibilizados no SIGAA, site da disciplina ou repositório oficial no GitHub. Os conteúdos poderão ser discutidos em sala de aula e/ou cobrados nas avaliações presenciais.
+
+b) Visualização de vídeos técnicos e aulas complementares indicados pelo professor, relacionados aos conteúdos abordados na disciplina, podendo ser objeto de discussão em aula e avaliação.
+
+c) Instalação, configuração e utilização de ferramentas computacionais selecionadas pelo professor e disponibilizadas no repositório da disciplina no GitHub, com finalidade prática de experimentação dos conceitos estudados. O uso dessas ferramentas poderá ser solicitado em atividades presenciais e/ou avaliações.
+
+d) Produção de atividades de consolidação da aprendizagem, tais como registros reflexivos, exercícios comentados, pequenos relatórios técnicos, participação em fóruns acadêmicos ou outras atividades orientadas na plataforma EaD da instituição, podendo ou não possuir atribuição de pontuação.
+
+O material utilizado nas atividades EAD poderá compor o conteúdo das avaliações presenciais.
+
+As atividades serão disponibilizadas por meio do SIGAA e repositório oficial da disciplina no GitHub, constituindo parte integrante da carga horária da disciplina.
+
+Notas: Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 6,0. Alunos com nota >= 4,0 e < 6,0 têm direito à nota de exame final.
+
+Prova final: (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá escrita objetiva (tipo canetão). O conteúdo será... TODO o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
+
+A realização das atividades EAD constitui requisito para acompanhamento adequado da disciplina, sendo responsabilidade do estudante cumprir as orientações e prazos estabelecidos.
+
+
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento
 
@@ -120,7 +146,25 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 26/fev | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Ranking de bancos de dados](https://db-engines.com/en/ranking). [Slides da aula](https://docs.google.com/presentation/d/e/2PACX-1vSRYcBjWwaSQ7CtSO_JAYhzch5RD6ga9G37BJe7X2IA5WX_03s5LQ8MOfzO-O4LvEgoCimjHEp06skH/pub?start=false&loop=false&delayms=3000) |
+| 1   | 26/fev | 3hs          | Apresentação da disciplina. Conceitos iniciais necessários da disciplina. conceitos básicos sobre bancos de dados, referências bibliográficas. Ranking de bancos de dados. |
+| 2   | 05/mar | 3hs          | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
+| 3   | 12/mar | 3hs          | Instalação de máquina virtual (virtual box), detalhes do SQL Server. |
+| 4   | 19/mar | 3hs          | Instalação de VM. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. |
+| 5   | 26/mar | 3hs          | Avaliação 1. |
+| 6   | 09/abr | 3hs          | Conhecendo o SSMS (sql server management studio). Monitorando o SQL Server e propriedades do servidor. |
+| 7   | 16/abr | 3hs          | Modelo ER, normalização de dados. |
+| 8   | 23/abr | 3hs          | Joins no SQL Server. SQL Server, criação de tabelas, Modelo de dados relacional, SQL Joins no SQL Server. |
+| 9   | 30/abr | 3hs          | Exercício pratico de modelagem de dados. |
+|10   | 07/mai | 3hs          | Avaliação 2.  |
+|11   | 14/mai | 3hs          | Blockchain. Blockchain,Lab com Multichain. |
+|12   | 21/mai | 3hs          | Blockchain, NoSQL e bancos distribuídos. |
+|13   | 28/mai | 3hs          | Vetoriais, Blockchain de 2ª camada, Blockchain no DB, bancos multi modelo, tendências, artigos, FISCO BCOS, ML. |
+|14   | 11/jun | 3hs          | Revisão de bancos de dados distribuídos x blockchain. |
+|15   | 18/jun | 3hs          |Avaliação 3. |
+
+
+
+
 | 2   | 05/mar | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. [Slides da aula 2](https://docs.google.com/presentation/d/e/2PACX-1vQS7F9wsXhfxDK9lCwSeTAricxAnKKJh_Mbcyq-SnbOGEQTOAZ0W0q03xEGrMfWDuI_DP9dqAKZpeWv/pub?start=false&loop=false&delayms=3000). [Instalação do SQL Server](https://docs.google.com/presentation/d/e/2PACX-1vSdSRJF2YEI9D0U48sGimqfWDxzFlJJHfcFesiBrJyCKZ68K4RL5T70kBA_7TdwIqo6j1AVjOI3Z0xr/pub?start=false&loop=false&delayms=3000) |
 | 3   | 12/mar  | 3hs | Instalação de máquina virtual (virtual box), detalhes do SQL Server. [Slides da aula 3](https://docs.google.com/presentation/d/e/2PACX-1vQSNWOafk6jdNL5Ib1tVpdrzGPMMlYYJ4dyXckRVVHl0xL9P0ygddjeIVJYN24w_Lx6dmyuAlSpccFD/pub?start=false&loop=false&delayms=3000). |
 | 4   | 19/mar | 3hs |Instalação de VM. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. [Slides da aula 4](https://docs.google.com/presentation/d/e/2PACX-1vRXdeXYCc-eCUPaNqAVpBJtYfxTDAHqVj9odY_-t1vNerSnlPQJ3SK79uTSt8117erAzD5U8Gr1GVSE/pub?start=false&loop=false&delayms=3000).  |
@@ -140,9 +184,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ## :date: 5. Unidades de avaliações
 
-* Avaliação 1: __/__/2026.
-* Avaliação 2: __/__/2026.
-* Avaliação 3: __/__/2026.
+* Avaliação 1: 26/03/2026.
+* Avaliação 2: 07/05/2026.
+* Avaliação 3: 18/06/2026.
 
 ---
 ## :hammer_and_wrench: 6. Links para download de ferramentas
