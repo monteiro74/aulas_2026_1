@@ -149,7 +149,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 26/fev | 3hs          | Apresentação da disciplina. Conceitos iniciais necessários da disciplina. conceitos básicos sobre bancos de dados, referências bibliográficas. Ranking de bancos de dados. |
+| 1   | 26/fev | 3hs          | Apresentação da disciplina. Conceitos iniciais necessários da disciplina. conceitos básicos sobre bancos de dados, referências bibliográficas. Ranking de bancos de dados. Conceitos, conceitos de banco de dados, comparações entre sistemas gerenciadores de bancos de dados e sistemas operacionais. conceitos de serviços. Comentários sobre as referências bibliográficas. <br> Exercício: 1) Baixar o SQL Server Express. 2) Baixar o SSMS (SQL Server Management Studio). 3) Instalar ambas as ferramentas.<br> [Slides da aula1, parte 1](https://docs.google.com/presentation/d/1CkAY74f9UYWJgfSnPycpU_9oC5vF1KqZXeNo87SBIPY/edit?usp=view).<br> [Slides de aula2, parte 2](https://docs.google.com/presentation/d/1aRyd7szh_eD5KXaXrWqn6W6HHQtqHJtNEQIpSTVnya8/edit?usp=view).<br>[Slides das referências](https://docs.google.com/presentation/d/1qqgo3p-C7MYWPKAonTNRsKzx2TxR9n257LZfQnyp900/edit?usp=view). <br> [Ranking de banco de dados](https://db-engines.com/en/ranking) <br> |
 | 2   | 05/mar | 3hs          | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
 | 3   | 12/mar | 3hs          | Instalação de máquina virtual (virtual box), detalhes do SQL Server. |
 | 4   | 19/mar | 3hs          | Instalação de VM. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. |
