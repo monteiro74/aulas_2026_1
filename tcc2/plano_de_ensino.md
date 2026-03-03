@@ -176,7 +176,7 @@ No momento os professores que temos no curso são:
 |14| MAURO JÚNIOR  | FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO, EMPREENDEDORISMO  |  |
 |15| NADISSON LUIS PAVAN | INTRODUÇÃO À LÓGICA MATEMÁTICA |  |
 |16| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
-|17| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3.Técnicas de scrapping. |
+|17| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3.Técnicas de scrapping. <br> 4. Desenvolvimento com low code e no code. <br> 5. Desenvolvimento de Startups.<br> |
 
 
 .
