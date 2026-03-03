@@ -38,6 +38,8 @@
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
 - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
 - [📄 16. Assuntos diversos](#-16-assuntos-diversos)
+  - [16.1. Vagas de emprego para "Engenheiro de dados":](#161-vagas-de-emprego-para-engenheiro-de-dados)
+  - [16.2. Pesquisa Salarial:](#162-pesquisa-salarial)
 - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -172,7 +174,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 25/fev | 3hs          | Apresentação da disciplina. Conceitos de engenharia de dados. |
+|  1  | 25/fev | 3hs          | Apresentação da disciplina. Conceitos de engenharia de dados.  Conceitos, exemplos de big data, diferenças entre engenharia de dados x análise de dados x cientísta de dados; atribuições dos profissionais; ETL xELT; conceitos de Data warehouse, data mart, data lake e virtualização de dados. Comentários sobre as referências bibliográficas. <br> Exercício: 1) Instalar o MySQL. 2) Criar um banco de dados. 3) Baixar o banco de dados de CNPJ aberto da receita federal. 4) Descompactar os arquivos. 5) No banco de dados, use o documento dicionário de dados do CNPJ para criar as tabelas. 6) importe os dados que você descompactou para dentro das tabelas no banco de dados.<br> [Slides da aula](https://docs.google.com/presentation/d/1Vm71yCUzFgaIy9GCKeHFEnqk2GjeQbPdMw9fpVj-kFo/edit?usp=view);<br> [Slides das referências](https://docs.google.com/presentation/d/1Tlj7dy0AZwLY0M42WQ-jSgv3xfmNWA7pDfoorcS3HmU/edit?usp=view); <br> [Página com dados abertos da Receita Federal sobre CNPJ](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj); <br> [Dicionário dos dados abertos](https://www.gov.br/receitafederal/dados/cnpj-metadados.pdf)<br> |
 |  2  | 04/mar | 3hs          | Processo KDD, Processo CRISP DM, ferramentas. |
 |  3  | 11/mar | 3hs          | Exercício com dados abertos. |
 |  4  | 18/mar | 3hs          | Limpeza de dados, campos vazios, estatísticas descritiva. |
@@ -519,6 +521,18 @@ Algoritmos classificadores, comparação:
 ## 📄 16. Assuntos diversos
 
 
+### 16.1. Vagas de emprego para "Engenheiro de dados":
+https://www.glassdoor.com.br/Vaga/cuiab%C3%A1-mato-grosso-engenheiro-a-de-dados-vagas-SRCH_IL.0,18_IC2467272_KO19,40.htm
+https://www.infojobs.com.br/vagas-de-emprego-engenheiro+de+dados-em-cuiaba,-mt.aspx
+https://www.catho.com.br/vagas/engenheiro-de-dados/
+https://br.linkedin.com/jobs/engenheiro-vagas-cuiab%C3%A1
+https://br.jobsavior.com/ofertas-de-emprego/cuiab%C3%A1-mt/query-engenheiro-de-dados-senior
+https://br.indeed.com/q-engenheiro-da-computa%C3%A7%C3%A3o-l-cuiab%C3%A1,-mt-vagas.html
+
+### 16.2. Pesquisa Salarial:
+https://www.glassdoor.com.br/Sal%C3%A1rios/engenheiro-de-dados-sal%C3%A1rio-SRCH_KO0,19.htm
+https://www.salario.com.br/profissao/engenheiro-de-dados-cbo-212205/
+https://g1.globo.com/tecnologia/noticia/2024/04/07/cientista-e-engenheiro-de-dados-estao-em-alta-e-tem-salario-que-pode-passar-de-r-20-mil-veja-como-entrar.ghtml
 
 
 ---
