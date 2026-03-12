@@ -13,6 +13,7 @@
 - [:globe\_with\_meridians: 2. Sites utilizados](#globe_with_meridians-2-sites-utilizados)
 - [:abacus: 3. Repositórios de apoio](#abacus-3-repositórios-de-apoio)
 - [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
+- [comando para ver o tamanho do banco após importação](#comando-para-ver-o-tamanho-do-banco-após-importação)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
 - [:hammer\_and\_wrench: 6. Ferramentas](#hammer_and_wrench-6-ferramentas)
 - [:books: 7. Livros (básicos)](#books-7-livros-básicos)
@@ -189,6 +190,18 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 13  | 20/mai | 3hs          | Bibliometria, infometria, RIS, Bibliometria com vozviewer, Data stream, Apache kafka, apache Spark, OpenRefine. |
 | 14  | 27/jun | 3hs          | Governança, Tendências na área de eng. dados. |
 | 15  | 03/jun | 3hs          | **Avaliação 3.** |
+
+
+## comando para ver o tamanho do banco após importação
+
+SELECT 
+    table_name AS tabela,
+    ROUND((data_length + index_length) / 1024 / 1024 / 1024, 2) AS tamanho_gb
+FROM information_schema.TABLES
+WHERE table_schema = 'rf'
+ORDER BY (data_length + index_length) DESC;
+
+
 
 
 ## :date: 5. Datas de avaliações
