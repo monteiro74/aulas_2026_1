@@ -187,17 +187,17 @@ No momento os professores que temos no curso são:
 
 |Id |Aluno                           | Professor          | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
-| 1| ANA KAROLINE DA SILVA DE SOUSA | JULIANO FERNANDES DE AVILA  | 	| ✔️ |  | |
+| 1| ANA KAROLINE DA SILVA DE SOUSA | JULIANO FERNANDES DE AVILA  | Site para tutores e pet sitters	| ✔️ |  | |
 | 2| CAMILA WEBER  | EMILIANO SOARES MONTEIRO | SISTEMA PARA GESTÃO DE ASSISTÊNCIA TÉCNICA	|✔️ |  | |
 | 3| CARLOS EDUARDO CONCEIÇÃO DA SILVA  | BENEVID FELIZ DA SILVA | 	| ✔️ |  | |
 | 4| DEOCLIDES ORMOND BORGES  | FRANCISCO SANCHES BANHOS FILHO | 	| ✔️ |  | |
 | 5| DOUGLAS FIORELO ANDERLE DE OLIVEIRA  | JOÃO RICARDO DOS SANTOS ROSA | 	| ✔️ |  | |
 | 6| EDUARDO POSSAMAI  | FRANCISCO SANCHES BANHOS FILHO  | 	| ✔️  |  | |
-| 7| EMANUELLE ANJOLIN ZUNTINI  | BENEVID FELIZ DA SILVA | 	| ✔️ |  | |
-| 8| FELIPE LEAL ALVES  | ELIAS ANTÔNIO MORGAN | 	| ✔️ |  | |
-| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | 	| ✔️ |  | |
+| 7| EMANUELLE ANJOLIN ZUNTINI  | BENEVID FELIZ DA SILVA | Aplicação de Modelos de Linguagem de Grande Escala (LLMs) na Automação do Atendimento Comercial em Concessionárias	| ✔️ |  | |
+| 8| FELIPE LEAL ALVES  | ELIAS ANTÔNIO MORGAN | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA	| ✔️ |  | |
+| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | Detecção de Gases Baseado em Princípio Biomimético	| ✔️ |  | |
 |10| GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja	| ✔️ |  | |
-|11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | 	| ✔️ |  | |
+|11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | Aplicação de Business Intelligence na Análise de Ocorrências Aeronáuticas: Desenvolvimento de Dashboards Interativos para a Aviação Civil Brasileira	| ✔️ |  | |
 |12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ |  | |
 |13| JANAINA LIMA VIANA  | IVAN LUIZ PEDROSO PIRES | PONTE: plataforma de gerenciamento de dados agrícolas 	| ✔️ |  | |
 |14| JOÃO VICTOR POLONIATO BUSS  |MAICON APARECIDO SARTIN  | Arquitetura Inteligente para Extração e Estruturação de Informações em Sistemas de Operadoras de Saúde	| ✔️ |  | |
