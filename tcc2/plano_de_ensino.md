@@ -185,13 +185,32 @@ No momento os professores que temos no curso são:
 
 ❓não entregou
 
-|Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
-|--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
-| 1|  | |  | 	|  |  | |
-| 2|  | |  | 	|  |  | |
-| 3|  | |  | 	|  |  | |
-| 4|  | |  | 	|  |  | |
-| 5|  | |  | 	|  |  | |
+|Id |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
+|--|---------------------------------|--------------------|---------|-----------------|---|---|
+| 1| ANA KAROLINE DA SILVA DE SOUSA |  | 	|  |  | |
+| 2| CAMILA WEBER  |  | 	|  |  | |
+| 3| CARLOS EDUARDO CONCEIÇÃO DA SILVA  |  | 	|  |  | |
+| 4| DEOCLIDES ORMOND BORGES  |  | 	|  |  | |
+| 5| DOUGLAS FIORELO ANDERLE DE OLIVEIRA  |  | 	|  |  | |
+| 6| EDUARDO POSSAMAI  |  | 	|  |  | |
+| 7| EMANUELLE ANJOLIN ZUNTINI  |  | 	|  |  | |
+| 8| FELIPE LEAL ALVES  |  | 	|  |  | |
+| 9| GLADSON JAIR BENTZ  |  | 	|  |  | |
+|10| GLAUCIMAR APARECIDA DE SIQUEIRA  |  | 	|  |  | |
+|11| GUILHERME DE CARVALHO FERNANDES  |  | 	|  |  | |
+|12| IZABELA AMARAL DE SOUZA   |  | 	|  |  | |
+|13| JANAINA LIMA VIANA  |  | 	|  |  | |
+|14| JOÃO VICTOR POLONIATO BUSS  |  | 	|  |  | |
+|15| JOÃO VITOR THEODORO DE SOUZA  |  | 	|  |  | |
+|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  |  | 	|  |  | |
+|17| LEONARDO LOPES RICCI  |  | 	|  |  | |
+|18| MARCOS JUNIOR DA SILVA  |  | 	|  |  | |
+|19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  |  | 	|  |  | |
+|20| PAULO HENRIQUE DOS SANTOS  |  | 	|  |  | |
+|21| PEDRO SALVADOR DE ARAUJO  |  | 	|  |  | |
+|22| RAFAELA BOHRER  |  | 	|  |  | |
+|23| WILHAN AZEVEDO DIONIZIO  |  | 	|  |  | |
+|24| WILLIAN DE CARVALHO NOGUEIRA  |  | 	|  |  | |
 
 
 Total de alunos matriculados: ...<br>
