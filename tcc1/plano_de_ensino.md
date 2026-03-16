@@ -193,18 +193,26 @@ No momento os professores que temos no curso são:
 
 ### 🧑‍🎓 6.1. Relação Aluno x Professor x Tema:
 
-|Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
-|--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
-|1 |   |  |  |  | |   | |
-|2 |   |  |  |  | |   | |
-|3 |   |  |  |  | |   | |
-|4 |   |  |  |  | |   | |
-|5 |   |  |  |  | |   | |
+|Id| Aluno  | Professor | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
+|--|---------------------------------|--------------------|---------|-----------------|---|---|
+|1 | ADRIAN GEAN GOMES RODRIGUES   | BENEVID FELIX DA SILVA |  | |   | |
+|2 | ALEX PABLO DE OLIVEIRA MORAES  | JOÃO RICARDO DOS SANTOS ROSA  |  | |   | |
+|3 | CARLA EDUARDA ALVES IZIDORIO  | JANECLER FOPPA |  | |   | |
+|4 | CARLOS EDUARDO SPAK JUNCHER  | RAMILTON COSTA GOMES JUNIOR |  | |   | |
+|5 | DANIEL KRUGER FERREIRA CARDOSO  | JANECLER FOPPA |  | |   | |
+|6 | GABRIEL BEREGULA GOMES   | MAICON APARECIDO SARTIN |  | |   | |
+|7 | GABRIEL DE ALMEIDA MORAES  | MAICON APARECIDO SARTIN |  | |   | |
+|8 | GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN |  | |   | |
+|9 | HENRIQUE AUGUSTO PEREIRA DE SA  | JULIANO FERNANDES DE AVILA |  | |   | |
+|10| JULIO CESAR COLLI   | JULIANO FERNANDES DE AVILA |  | |   | |
+|11| MATHEUS HENRIQUE LUDWIG  | ARIANY CARDOSO PEREIRA |  | |   | |
+|12| NICOLAS FELIPE HASSELSTROM DA VEIGA  | MAICON APARECIDO SARTIN |  | |   | |
+|13| PAULO HENRIQUE ANDRADE GERALDI  | MAURO FRANCISCO DOS SANTOS JUNIOR |  | |   | |
+|14| SALATIEL BONFIM GOMES  | FRANCISCO SANCHES BANHOS FILHO |  | |   | |
+|15| THIAGO SMERDECK PEREIRA  | BENEVID FELIX DA SILVA |  | |   | |
+|16| VITOR FORTUNATO DE OLIVEIRA  | ELIAS ANTONIO MORGAN |  | |   | |
 
 
-
-
-[^1]: 1ª entrega será no final de ....<br>
 
 Total de alunos matriculados: .<br>
 Total de entregas na 3a etapa: .<br>
