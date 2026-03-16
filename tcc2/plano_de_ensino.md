@@ -185,20 +185,20 @@ No momento os professores que temos no curso são:
 
 ❓não entregou
 
-|Id |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
+|Id |Aluno                           | Professor          | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
-| 1| ANA KAROLINE DA SILVA DE SOUSA |  | 	|  |  | |
-| 2| CAMILA WEBER  |  | 	|  |  | |
-| 3| CARLOS EDUARDO CONCEIÇÃO DA SILVA  |  | 	|  |  | |
-| 4| DEOCLIDES ORMOND BORGES  |  | 	|  |  | |
-| 5| DOUGLAS FIORELO ANDERLE DE OLIVEIRA  |  | 	|  |  | |
-| 6| EDUARDO POSSAMAI  |  | 	|  |  | |
-| 7| EMANUELLE ANJOLIN ZUNTINI  |  | 	|  |  | |
-| 8| FELIPE LEAL ALVES  |  | 	|  |  | |
-| 9| GLADSON JAIR BENTZ  |  | 	|  |  | |
-|10| GLAUCIMAR APARECIDA DE SIQUEIRA  |  | 	|  |  | |
-|11| GUILHERME DE CARVALHO FERNANDES  |  | 	|  |  | |
-|12| IZABELA AMARAL DE SOUZA   |  | 	|  |  | |
+| 1| ANA KAROLINE DA SILVA DE SOUSA | JULIANO FERNANDES DE AVILA  | 	| ✔️ |  | |
+| 2| CAMILA WEBER  | EMILIANO SOARES MONTEIRO | SISTEMA PARA GESTÃO DE ASSISTÊNCIA TÉCNICA	|✔️ |  | |
+| 3| CARLOS EDUARDO CONCEIÇÃO DA SILVA  | BENEVID FELIZ DA SILVA | 	| ✔️ |  | |
+| 4| DEOCLIDES ORMOND BORGES  | FRANCISCO SANCHES BANHOS FILHO | 	| ✔️ |  | |
+| 5| DOUGLAS FIORELO ANDERLE DE OLIVEIRA  | JOÃO RICARDO DOS SANTOS ROSA | 	| ✔️ |  | |
+| 6| EDUARDO POSSAMAI  | FRANCISCO SANCHES BANHOS FILHO  | 	| ✔️  |  | |
+| 7| EMANUELLE ANJOLIN ZUNTINI  | BENEVID FELIZ DA SILVA | 	| ✔️ |  | |
+| 8| FELIPE LEAL ALVES  | ELIAS ANTÔNIO MORGAN | 	| ✔️ |  | |
+| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | 	| ✔️ |  | |
+|10| GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja	| ✔️ |  | |
+|11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | 	| ✔️ |  | |
+|12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ |  | |
 |13| JANAINA LIMA VIANA  |  | 	|  |  | |
 |14| JOÃO VICTOR POLONIATO BUSS  |  | 	|  |  | |
 |15| JOÃO VITOR THEODORO DE SOUZA  |  | 	|  |  | |
