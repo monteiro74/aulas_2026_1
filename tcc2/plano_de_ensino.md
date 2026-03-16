@@ -207,10 +207,10 @@ No momento os professores que temos no curso são:
 |18| MARCOS JUNIOR DA SILVA  | JOAO RICARDO DOS SANTOS ROSA | Análise de User eXperience e Usabilidade da Plataforma Lattes: Identificação de Barreiras e Recomendações de Melhoria, da área de Ciência da Computação.	| ✔️ |  | |
 |19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  | RAMILTON COSTA GOMES JUNIOR | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual	| ✔️ |  | |
 |20| PAULO HENRIQUE DOS SANTOS  | JOAO RICARDO DOS SANTOS ROSA | Avaliando a plataforma Ava como tecnologia assistiva para pessoas surdas e deficientes auditivos, sob a perspectiva da Acessibilidade, Usabilidade e User eXperience	| ✔️ |  | |
-|21| PEDRO SALVADOR DE ARAUJO  |  | 	|  |  | |
-|22| RAFAELA BOHRER  |  | 	|  |  | |
-|23| WILHAN AZEVEDO DIONIZIO  |  | 	|  |  | |
-|24| WILLIAN DE CARVALHO NOGUEIRA  |  | 	|  |  | |
+|21| PEDRO SALVADOR DE ARAUJO | JULIANO FERNANDES DE AVILA | GESTÃO DE CONTRATOS DE LOCAÇÃO, da área de DESENVOLVIMENTO WEB	| ✔️ |  | |
+|22| RAFAELA BOHRER  | ELISANGELA DIAS BRUGNERA | Literacia Digital: Um Compilado de Jogos Digitais para Educação	| ✔️ |  | |
+|23| WILHAN AZEVEDO DIONIZIO  | IVAN LUIZ PEDROSO PIRES | Plenatto - Sistema de Votação em Tempo Real para Câmara Municipal	| ✔️ |  | |
+|24| WILLIAN DE CARVALHO NOGUEIRA  | JANECLER FOPPA | Protótipo de Simulados on-line do Revalida em Ambiente Web	| ✔️ |  | |
 
 
 Total de alunos matriculados: ...<br>
