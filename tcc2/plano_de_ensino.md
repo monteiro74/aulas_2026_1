@@ -199,11 +199,11 @@ No momento os professores que temos no curso são:
 |10| GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja	| ✔️ |  | |
 |11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | 	| ✔️ |  | |
 |12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ |  | |
-|13| JANAINA LIMA VIANA  |  | 	|  |  | |
-|14| JOÃO VICTOR POLONIATO BUSS  |  | 	|  |  | |
-|15| JOÃO VITOR THEODORO DE SOUZA  |  | 	|  |  | |
-|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  |  | 	|  |  | |
-|17| LEONARDO LOPES RICCI  |  | 	|  |  | |
+|13| JANAINA LIMA VIANA  | IVAN LUIZ PEDROSO PIRES | PONTE: plataforma de gerenciamento de dados agrícolas 	| ✔️ |  | |
+|14| JOÃO VICTOR POLONIATO BUSS  |MAICON APARECIDO SARTIN  | Arquitetura Inteligente para Extração e Estruturação de Informações em Sistemas de Operadoras de Saúde	| ✔️ |  | |
+|15| JOÃO VITOR THEODORO DE SOUZA  | BENEVID FELIZ DA SILVA | Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT	| ✔️ |  | |
+|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  | JANECLER FOPPA  | Modelagem de Regras de Negócio da ANS para Sistemas de Cobrança em Operadoras de Saúde	| ✔️ |  | |
+|17| LEONARDO LOPES RICCI  | JOAO RICARDO DOS SANTOS ROSA | DESENVOLVIMENTO DE UMA PLATAFORMA WEB PARA ACOMPANHAMENTO E MONITORAMENTO DE SAÚDE MENTAL	| ✔️ |  | |
 |18| MARCOS JUNIOR DA SILVA  |  | 	|  |  | |
 |19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  |  | 	|  |  | |
 |20| PAULO HENRIQUE DOS SANTOS  |  | 	|  |  | |
