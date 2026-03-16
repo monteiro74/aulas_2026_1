@@ -192,14 +192,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 15  | 03/jun | 3hs          | **Avaliação 3.** |
 
 
-## comando para ver o tamanho do banco após importação
 
-SELECT 
-    table_name AS tabela,
-    ROUND((data_length + index_length) / 1024 / 1024 / 1024, 2) AS tamanho_gb
-FROM information_schema.TABLES
-WHERE table_schema = 'rf'
-ORDER BY (data_length + index_length) DESC;
 
 
 

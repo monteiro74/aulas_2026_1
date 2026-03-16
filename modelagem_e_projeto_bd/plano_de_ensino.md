@@ -15,6 +15,11 @@
 - [:globe\_with\_meridians: 2. Sites utilizados](#globe_with_meridians-2-sites-utilizados)
 - [:abacus: 3. Repositórios de apoio](#abacus-3-repositórios-de-apoio)
 - [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
+- [4.1. Exercícios, comandos para ver o tamanho do banco após importação](#41-exercícios-comandos-para-ver-o-tamanho-do-banco-após-importação)
+  - [4.1.1. Tamanho total do banco de dados](#411-tamanho-total-do-banco-de-dados)
+  - [4.1.2. Tamanho do banco de dados em Gb](#412-tamanho-do-banco-de-dados-em-gb)
+  - [4.1.3. Tamanho do banco de dados em Mb](#413-tamanho-do-banco-de-dados-em-mb)
+  - [4.1.4. Apresenta a quantidade de registros](#414-apresenta-a-quantidade-de-registros)
 - [:date: 5. Unidades de avaliações](#date-5-unidades-de-avaliações)
 - [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
 - [:books: 7. Livros](#books-7-livros)
@@ -165,6 +170,53 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |14   | 11/jun | 3hs          | Revisão de bancos de dados distribuídos x blockchain. |
 |15   | 18/jun | 3hs          |Avaliação 3. |
 
+
+## 4.1. Exercícios, comandos para ver o tamanho do banco após importação
+
+### 4.1.1. Tamanho total do banco de dados
+
+```SQL
+SELECT 
+    table_schema AS banco,
+    ROUND(SUM(data_length + index_length) / 1024 / 1024 / 1024, 2) AS tamanho_gb
+FROM information_schema.TABLES
+WHERE table_schema = 'rf'
+GROUP BY table_schema;
+```
+
+### 4.1.2. Tamanho do banco de dados em Gb
+
+```SQL
+SELECT 
+    table_name AS tabela,
+    ROUND((data_length + index_length) / 1024 / 1024 / 1024, 2) AS tamanho_gb
+FROM information_schema.TABLES
+WHERE table_schema = 'rf'
+ORDER BY (data_length + index_length) DESC;
+```
+
+### 4.1.3. Tamanho do banco de dados em Mb
+
+```SQL
+SELECT 
+    table_name AS tabela,
+    table_rows AS estimativa_registros,
+    ROUND((data_length + index_length)/1024/1024,2) AS tamanho_mb
+FROM information_schema.TABLES
+WHERE table_schema = 'rf'
+ORDER BY (data_length + index_length) DESC;
+```
+
+### 4.1.4. Apresenta a quantidade de registros
+
+```SQL
+SELECT 
+    table_name AS tabela,
+    table_rows AS quantidade_registros
+FROM information_schema.TABLES
+WHERE table_schema = 'rf'
+ORDER BY table_rows DESC;
+```
 
 
 ## :date: 5. Unidades de avaliações
