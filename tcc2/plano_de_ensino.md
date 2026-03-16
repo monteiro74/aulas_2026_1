@@ -204,9 +204,9 @@ No momento os professores que temos no curso são:
 |15| JOÃO VITOR THEODORO DE SOUZA  | BENEVID FELIZ DA SILVA | Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT	| ✔️ |  | |
 |16| KAILA GIOVANNA ALVES MARTINS DA SILVA  | JANECLER FOPPA  | Modelagem de Regras de Negócio da ANS para Sistemas de Cobrança em Operadoras de Saúde	| ✔️ |  | |
 |17| LEONARDO LOPES RICCI  | JOAO RICARDO DOS SANTOS ROSA | DESENVOLVIMENTO DE UMA PLATAFORMA WEB PARA ACOMPANHAMENTO E MONITORAMENTO DE SAÚDE MENTAL	| ✔️ |  | |
-|18| MARCOS JUNIOR DA SILVA  |  | 	|  |  | |
-|19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  |  | 	|  |  | |
-|20| PAULO HENRIQUE DOS SANTOS  |  | 	|  |  | |
+|18| MARCOS JUNIOR DA SILVA  | JOAO RICARDO DOS SANTOS ROSA | Análise de User eXperience e Usabilidade da Plataforma Lattes: Identificação de Barreiras e Recomendações de Melhoria, da área de Ciência da Computação.	| ✔️ |  | |
+|19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  | RAMILTON COSTA GOMES JUNIOR | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual	| ✔️ |  | |
+|20| PAULO HENRIQUE DOS SANTOS  | JOAO RICARDO DOS SANTOS ROSA | Avaliando a plataforma Ava como tecnologia assistiva para pessoas surdas e deficientes auditivos, sob a perspectiva da Acessibilidade, Usabilidade e User eXperience	| ✔️ |  | |
 |21| PEDRO SALVADOR DE ARAUJO  |  | 	|  |  | |
 |22| RAFAELA BOHRER  |  | 	|  |  | |
 |23| WILHAN AZEVEDO DIONIZIO  |  | 	|  |  | |
