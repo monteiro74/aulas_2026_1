@@ -18,6 +18,7 @@
     - [4.1.2. Tamanho do banco de dados em Gb](#412-tamanho-do-banco-de-dados-em-gb)
     - [4.1.3. Tamanho do banco de dados em Mb](#413-tamanho-do-banco-de-dados-em-mb)
     - [4.1.4. Apresenta a quantidade de registros](#414-apresenta-a-quantidade-de-registros)
+    - [4.1.5. Exercício 1 com Orange Data Mining](#415-exercício-1-com-orange-data-mining)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
 - [:hammer\_and\_wrench: 6. Ferramentas](#hammer_and_wrench-6-ferramentas)
 - [:books: 7. Livros (básicos)](#books-7-livros-básicos)
