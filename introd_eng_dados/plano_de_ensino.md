@@ -246,7 +246,7 @@ ORDER BY table_rows DESC;
 
 #### 4.1.5. Exercício 1 com Orange Data Mining
 
-[https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png)
+![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png)
 
 
 
