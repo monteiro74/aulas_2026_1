@@ -19,6 +19,7 @@
     - [4.1.3. Tamanho do banco de dados em Mb](#413-tamanho-do-banco-de-dados-em-mb)
     - [4.1.4. Apresenta a quantidade de registros](#414-apresenta-a-quantidade-de-registros)
     - [4.1.5. Exercício 1 com Orange Data Mining](#415-exercício-1-com-orange-data-mining)
+    - [4.1.6. Exercício 2, DER](#416-exercício-2-der)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
 - [:hammer\_and\_wrench: 6. Ferramentas](#hammer_and_wrench-6-ferramentas)
 - [:books: 7. Livros (básicos)](#books-7-livros-básicos)
@@ -248,7 +249,9 @@ ORDER BY table_rows DESC;
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png)
 
+#### 4.1.6. Exercício 2, DER
 
+![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png)
 
 ## :date: 5. Datas de avaliações
 
