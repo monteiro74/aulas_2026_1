@@ -186,7 +186,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  3  | 11/mar | 3hs          | Exercício com dados abertos. [Exercíco de importação de dados](https://docs.google.com/presentation/d/1wn-JtQWKtS4DqbYbXlRgJoXNGzWVOjS-wG3XfUBThpo/edit?usp=view), [Limpeza de dados](https://docs.google.com/presentation/d/1EhNHtAt0LguWZ9mg8MVqJ9DxWaRiXHm9XDvQFt3Ln4Q/edit?usp=view), [Orange Data Mining](https://docs.google.com/presentation/d/1n20wLJwAaG_DW2MdFVoD_U1yocRt_Edg58cW1Jq0t4w/edit?usp=view). |
 |  4  | 18/mar | 3hs          | [Classificação e clustering](https://docs.google.com/presentation/d/1veSECCY8wB-jPhUP8ysaUZEPwPWYoghKoioDfLzq2Q0/edit?usp=view), [Classificação e clustering no Orange](https://docs.google.com/presentation/d/1R6KfRqds_YG17RO14ZnzlxkqsKjgbUtp2dj2_h_B5wU/edit?usp=view). |
 |  5  | 25/mar | 3hs          | **Avaliação 1.** |
-|  6  | 01/abr | 3hs          | Agrupamento e classificação, dados abertos. |
+|  6  | 01/abr | 3hs          | Análise de texto/sentimentos com Orange, dados abertos. 5 V. [Slide de aula 6](https://docs.google.com/presentation/d/182DUfGMuYvMQb9LFP1ZjcfR1apo_LV5Fa3xRpmzHboA/edit?usp=view), [Exercício com Orange](https://docs.google.com/presentation/d/1hFGZGEWyBtRNMiQMERUwoWI6PpRonG3Bf1p945k360E/edit?usp=view). |
 |  7  | 08/abr | 3hs          | Agrupamento ou clustering e classificação, DW e dados abertos. |
 |  8  | 15/abr | 3hs          | Formatos abertos, os 5 V do big data, Pentaho PDI. |
 |  9  | 22/abr | 3hs          | Associação, NLP, Apriori. |
