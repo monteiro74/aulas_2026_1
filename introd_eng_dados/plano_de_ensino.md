@@ -279,7 +279,7 @@ Algumas ferramentas são usadas e/ou comentadas em sala de aula (na lista abaixo
 12. [MinIO](https://min.io/docs/minio/windows/index.html)
 13. Organge Data Mining (já esta contido dentro do Anaconda)
 14. Spider IDE (já esta contido dentro do Anaconda)
-15. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/)
+15. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/) ou [Download](https://pentaho.com/pentaho-developer-edition/#communityProducts)
 16. [Knime](https://www.knime.com/downloads)
 17. [Socnetv](https://socnetv.org/)
 18. [Vozviewer](https://www.vosviewer.com/)
