@@ -306,13 +306,28 @@ Algumas ferramentas são usadas e/ou comentadas em sala de aula (na lista abaixo
 39. Jupyter Notebook (já esta contido dentro do Anaconda)
 40. LM Studio, Jan, GTP4All, Anything LLM
 41. Knime
-    
 
+42. Links para drivers que o Pentaho necessita:
+
+1. MySQL ODBC Driver
+https://dev.mysql.com/downloads/connector/odbc/
+
+2. Microsoft JDBC Driver for SQL Server
+https://learn.microsoft.com/pt-br/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16
+
+3. Pentaho CE
+https://pentaho.com/pentaho-developer-edition/
+
+4. JDBC Driver download:
+https://www.oracle.com/br/database/technologies/appdev/jdbc-downloads.html
+
+5. JDBC Driver para SQL Server:
+https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver17
+
+6. Vídeo sobre instalação do Pentaho:
+https://www.youtube.com/watch?v=DHOVpSjF1MY&list=PLbKspxpESPnZqy-J5pD1wSaiBvs34mxqI
 
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
-
-
-
 
 ---
 ## :books: 7. Livros (básicos)
@@ -444,6 +459,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
+6. Instalação do Pentaho https://www.youtube.com/watch?v=DHOVpSjF1MY&list=PLbKspxpESPnZqy-J5pD1wSaiBvs34mxqI
 
 ---
 ## :office: 13. Projetos da fundação Apache e suas características
