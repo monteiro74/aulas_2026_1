@@ -325,7 +325,11 @@ https://www.oracle.com/br/database/technologies/appdev/jdbc-downloads.html
 https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver17
 
 6. Vídeo sobre instalação do Pentaho:
+
 https://www.youtube.com/watch?v=DHOVpSjF1MY&list=PLbKspxpESPnZqy-J5pD1wSaiBvs34mxqI
+ e 
+https://www.youtube.com/watch?v=fNDJEjlYlCw
+
 
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
@@ -459,7 +463,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
-6. Instalação do Pentaho https://www.youtube.com/watch?v=DHOVpSjF1MY&list=PLbKspxpESPnZqy-J5pD1wSaiBvs34mxqI
+6. Instalação do Pentaho https://www.youtube.com/watch?v=DHOVpSjF1MY&list=PLbKspxpESPnZqy-J5pD1wSaiBvs34mxqI e  https://www.youtube.com/watch?v=fNDJEjlYlCw
 
 ---
 ## :office: 13. Projetos da fundação Apache e suas características
