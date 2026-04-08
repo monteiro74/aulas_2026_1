@@ -304,34 +304,32 @@ Algumas ferramentas são usadas e/ou comentadas em sala de aula (na lista abaixo
 37. IPFS Desktop
 38. Gephi
 39. Jupyter Notebook (já esta contido dentro do Anaconda)
-40. LM Studio, Jan, GTP4All, Anything LLM
-41. Knime
+40. [LM Studio](https://lmstudio.ai/), [Jan](https://www.jan.ai/download), [GTP4All](https://www.nomic.ai/gpt4all), [Anything LLM](https://anythingllm.com/).
+41.  Knime
+42.  Links para drivers que o Pentaho necessita:
 
-42. Links para drivers que o Pentaho necessita:
-
-1. MySQL ODBC Driver
+*  MySQL ODBC Driver
 https://dev.mysql.com/downloads/connector/odbc/
 
-2. Microsoft JDBC Driver for SQL Server
+* Microsoft JDBC Driver for SQL Server
 https://learn.microsoft.com/pt-br/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16
 
-3. Pentaho CE
+* Pentaho CE
 https://pentaho.com/pentaho-developer-edition/
 
-4. JDBC Driver download:
+* JDBC Driver download:
 https://www.oracle.com/br/database/technologies/appdev/jdbc-downloads.html
 
-5. JDBC Driver para SQL Server:
+* JDBC Driver para SQL Server:
 https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver17
 
-6. Vídeo sobre instalação do Pentaho:
+* Vídeo sobre instalação do Pentaho:
 
 https://www.youtube.com/watch?v=DHOVpSjF1MY&list=PLbKspxpESPnZqy-J5pD1wSaiBvs34mxqI
  e 
 https://www.youtube.com/watch?v=fNDJEjlYlCw
 
-
-* Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
+43. Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
 ---
 ## :books: 7. Livros (básicos)
