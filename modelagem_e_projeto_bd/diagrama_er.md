@@ -5,28 +5,28 @@ erDiagram
 
     tblAlunos {
         INT IdAluno PK
-        VARCHAR Nome
+        VARCHAR_100 Nome
         DATE Aniversario
-        VARCHAR Sexo
-        DECIMAL Salario
+        VARCHAR_1 Sexo
+        DECIMAL_10_2 Salario
     }
 
     tblSituacao {
         INT IdSituacao PK
-        VARCHAR Situacao
+        VARCHAR_30 Situacao
     }
 
     tblCursos {
         INT IdCurso PK
-        VARCHAR NomeCurso
+        VARCHAR_50 NomeCurso
     }
 
     tblTurmas {
         INT IdTurma PK
         INT IdAluno FK
         INT IdCurso FK
-        VARCHAR DescricaoTurma
-        DECIMAL PrecoTurma
+        VARCHAR_50 DescricaoTurma
+        DECIMAL_15_2 PrecoTurma
         DATE DataInicio
         DATE DataFim
     }
@@ -40,10 +40,10 @@ erDiagram
 
     tblPets {
         INT IdPet PK
-        VARCHAR Apelido
-        VARCHAR Raca
+        VARCHAR_50 Apelido
+        VARCHAR_50 Raca
         INT IdAluno FK
-        DECIMAL Valor
+        DECIMAL_18_2 Valor
     }
 
     tblAlunos   ||--o{ tblTurmas    : possui
