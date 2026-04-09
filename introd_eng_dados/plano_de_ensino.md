@@ -285,21 +285,21 @@ Algumas ferramentas são usadas e/ou comentadas em sala de aula (na lista abaixo
 18. [Vozviewer](https://www.vosviewer.com/)
 19. Apache Kafka
 20. Apache Hadoop
-21. Apache Superset
+21. Apache Superset *
 22. Apache Spark
 23. Apache Airflow
 24. Apache Nifi
 25. Apache Atlas
 26. Kedro Viz
-27. OpenRefine
-28. Streamlit
+27. OpenRefine *
+28. Streamlit 
 29. Luigi
 30. Amundsen
 31. Datahub
 32. LakeFS
 33. Denodo
 34. Elastic search + Kibana
-35. Grafana
+35. Grafana *
 36. AWS S3
 37. IPFS Desktop
 38. Gephi
