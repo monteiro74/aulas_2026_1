@@ -101,7 +101,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 18/04/2026 Aula 7: Acompanhamento do trabalho aluno-orientador.
 	
 25/04/2026 Aula 8: Acompanhamento do trabalho aluno-orientador.
-	
+
+Reunião do dia 29 de abril Slides https://docs.google.com/presentation/d/11jcbkLn7c41WoA0bhDPnzClxm2RYLJ2pBQ66Z0aKlXQ/edit?usp=view
+
 09/05/2026 Aula 9: Acompanhamento do trabalho aluno-orientador.
 	
 16/05/2026 Aula 10: Acompanhamento do trabalho aluno-orientador.
