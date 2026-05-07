@@ -20,6 +20,7 @@
     - [4.1.4. Apresenta a quantidade de registros](#414-apresenta-a-quantidade-de-registros)
     - [4.1.5. Exercício 1 com Orange Data Mining](#415-exercício-1-com-orange-data-mining)
     - [4.1.6. Exercício 2, DER](#416-exercício-2-der)
+    - [4.1.7. Exercício com Docker, Grafana, Superset e Metabase](#417-exercício-com-docker-grafana-superset-e-metabase)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
 - [:hammer\_and\_wrench: 6. Ferramentas](#hammer_and_wrench-6-ferramentas)
 - [:books: 7. Livros (básicos)](#books-7-livros-básicos)
@@ -191,7 +192,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  8  | 15/abr | 3hs          | Enriquecimento de dados, big data, Pentaho, virtualização. [Bigdata](https://docs.google.com/presentation/d/1YS7Y8H41Il2a_fHGIwyaPSA2NRKjiiB6e7GyGkTO8Rw/edit?usp=view), [Enriquecimento de dados](https://docs.google.com/presentation/d/1XXY9lH4__jIvtpPTBYKUathpsts_ZBnKK-zp_QqRHyw/edit?usp=view), [Virtualização de dados](https://docs.google.com/presentation/d/11TWxuyo4jsy-Jp8cOUOuIYnDRpr3uNjUvk7nFDzscxk/edit?usp=view). [banco_origem](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/banco_origem.png) ou [banco de produção](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/producao.drawio.png), [banco_destino](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/banco_destino.png) ou [floco de neve](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/floco_de_neve.drawio.png), [DER dos dados abaertos da RF](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png), [Análise de sentimento](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/orange_analise_sentimento.png). <br>  Exercícios: <br>  1. Para quem ainda não terminou, elaborar o diagrama entidade relacionamento do banco de dados da receita federal.<br> 2. Instalar o pentaho e realizar uma movimentação de banco de dados. <br> 3. Via IDE python e jupiter notebook (disponíve no anaconda) rodar os script python,  (Jupiter Notebook com o script p5.ipynb). <br> 4. Rodar os 2 exemplos no Orange data mining (esta disponível no Anaconda), [análise de sentimento](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/orange_analise_sentimento.png). <br> 5. Rodar os scripts cnaes.py e empresas.py (devidamente adaptados aos seus bancos de dados). <br> 6. Rodar os scripts banco_origem.sql e banco_destino.sql no servidor MariaDB (ou MySQL), gerar os diagramas entidade relacionamento (um diagrama para cadas script). <br> |
 |  9  | 22/abr | 3hs          | [Exercício de conversão de dados (será comentado posteriormente a partir da aula 11!!)](https://docs.google.com/presentation/d/1fzikqIDUC_fq33RCP29qJdctrMT7ql9HtZXtgLlxIEs/edit?usp=view), <br> [Análise de redes sociais](https://docs.google.com/presentation/d/1RTDx0zI5o-FVBK3VUo8bWF7ZN024Q18WbOu5435Wt2A/edit?usp=view), <br> [Bibliometria](https://docs.google.com/presentation/d/1PDOvFjxK5ZWAFKZfIMCAUQn9LD4ziVQvNcazPrKgNB8/edit?usp=view), <br> [Grafana e Superset](https://docs.google.com/presentation/d/1EN17uBCqRoizqUA7Ks-haaKHqzbk5KzHdmA6KaNK4V8/edit?usp=view),  <br> [openRefine](https://docs.google.com/presentation/d/1HKGPqFbHnFR-U8F6RxY8o1nI4qJvmi8g1XhQ-wBrb7k/edit?usp=view), <br>[Catálogo, orquestração, Darkdata e datalineage](https://docs.google.com/presentation/d/1meqSAOjunpnwxfPhXipSN4bzjSlzY3sTFd2h_XDfM60/edit?usp=view). <br> Material (vídeos) sobre análise de sentimentos e twitter com Orange: <br> A) [Análise de sentimentos com o Orange: Percorrendo um texto](https://www.youtube.com/watch?v=pZuKsOi97QA), <br> B) [Text Mining: Sentiment Analysis](https://www.youtube.com/watch?v=7Fnli0wc11g), <br> C)  [Text Mining: Twitter Data Analysis](https://www.youtube.com/watch?v=HDkI6G4slzQ). |
 | 10  | 29/abr | 3hs          | **Avaliação 2.** |
-| 11  | 06/mai | 3hs          | Análise de redes sociais, Enriquecimento de dados, Movimentação de dados no Pentaho, Virtualização de dados, Big data.|
+| 11  | 06/mai | 3hs          | Exercício com docker (Metabase, Grafana e Superset). [Slide do exercício](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png). |
 | 12  | 13/mai | 3hs          | Orquestração, Dark Data, Data Lineage, Regressão Linear, Streamlit. |
 | 13  | 20/mai | 3hs          | Bibliometria, infometria, RIS, Bibliometria com vozviewer, Data stream, Apache kafka, apache Spark, OpenRefine. |
 | 14  | 27/jun | 3hs          | Governança, Tendências na área de eng. dados. |
@@ -252,6 +253,12 @@ ORDER BY table_rows DESC;
 #### 4.1.6. Exercício 2, DER
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png)
+
+
+#### 4.1.7. Exercício com Docker, Grafana, Superset e Metabase
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png)
+
 
 ## :date: 5. Datas de avaliações
 
