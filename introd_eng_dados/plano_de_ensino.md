@@ -21,6 +21,7 @@
     - [4.1.5. Exercício 1 com Orange Data Mining](#415-exercício-1-com-orange-data-mining)
     - [4.1.6. Exercício 2, DER](#416-exercício-2-der)
     - [4.1.7. Exercício com Docker, Grafana, Superset e Metabase](#417-exercício-com-docker-grafana-superset-e-metabase)
+    - [4.1.8. Exercício com Streamlit](#418-exercício-com-streamlit)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
 - [:hammer\_and\_wrench: 6. Ferramentas](#hammer_and_wrench-6-ferramentas)
 - [:books: 7. Livros (básicos)](#books-7-livros-básicos)
@@ -193,7 +194,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  9  | 22/abr | 3hs          | [Exercício de conversão de dados (será comentado posteriormente a partir da aula 11!!)](https://docs.google.com/presentation/d/1fzikqIDUC_fq33RCP29qJdctrMT7ql9HtZXtgLlxIEs/edit?usp=view), <br> [Análise de redes sociais](https://docs.google.com/presentation/d/1RTDx0zI5o-FVBK3VUo8bWF7ZN024Q18WbOu5435Wt2A/edit?usp=view), <br> [Bibliometria](https://docs.google.com/presentation/d/1PDOvFjxK5ZWAFKZfIMCAUQn9LD4ziVQvNcazPrKgNB8/edit?usp=view), <br> [Grafana e Superset](https://docs.google.com/presentation/d/1EN17uBCqRoizqUA7Ks-haaKHqzbk5KzHdmA6KaNK4V8/edit?usp=view),  <br> [openRefine](https://docs.google.com/presentation/d/1HKGPqFbHnFR-U8F6RxY8o1nI4qJvmi8g1XhQ-wBrb7k/edit?usp=view), <br>[Catálogo, orquestração, Darkdata e datalineage](https://docs.google.com/presentation/d/1meqSAOjunpnwxfPhXipSN4bzjSlzY3sTFd2h_XDfM60/edit?usp=view). <br> Material (vídeos) sobre análise de sentimentos e twitter com Orange: <br> A) [Análise de sentimentos com o Orange: Percorrendo um texto](https://www.youtube.com/watch?v=pZuKsOi97QA), <br> B) [Text Mining: Sentiment Analysis](https://www.youtube.com/watch?v=7Fnli0wc11g), <br> C)  [Text Mining: Twitter Data Analysis](https://www.youtube.com/watch?v=HDkI6G4slzQ). |
 | 10  | 29/abr | 3hs          | **Avaliação 2.** |
 | 11  | 06/mai | 3hs          | Exercício com docker (Metabase, Grafana e Superset). [Slide do exercício](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png). |
-| 12  | 13/mai | 3hs          | [Regressão linear](https://docs.google.com/presentation/d/1bd5UZ62wFb7F1XeXEFBFAdLA2KV2cpxM1ZBUJWU_oEE/edit?usp=view), [Arquivo .RIS](https://docs.google.com/presentation/d/1RvnS6XpWFp9sDyX4lIv4C78kUh-jJlRyYJgYEHChsnY/edit?usp=view), [Qualidade de dados](https://docs.google.com/presentation/d/1X0h6NF3qZruEwUrlNrTsXUxJggSu1njwMDV2m55eV2c/edit?usp=view). |
+| 12  | 13/mai | 3hs          | [Regressão linear](https://docs.google.com/presentation/d/1bd5UZ62wFb7F1XeXEFBFAdLA2KV2cpxM1ZBUJWU_oEE/edit?usp=view), [Arquivo .RIS](https://docs.google.com/presentation/d/1RvnS6XpWFp9sDyX4lIv4C78kUh-jJlRyYJgYEHChsnY/edit?usp=view), [Qualidade de dados](https://docs.google.com/presentation/d/1X0h6NF3qZruEwUrlNrTsXUxJggSu1njwMDV2m55eV2c/edit?usp=view). [Exercício com streamlit](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2b.png) |
 | 13  | 20/mai | 3hs          | Bibliometria, infometria, RIS, Bibliometria com vozviewer, Data stream, Apache kafka, apache Spark, OpenRefine. |
 | 14  | 27/jun | 3hs          | Governança, Tendências na área de eng. dados. |
 | 15  | 03/jun | 3hs          | **Avaliação 3.** |
@@ -259,6 +260,10 @@ ORDER BY table_rows DESC;
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png)
 
+
+#### 4.1.8. Exercício com Streamlit
+
+![Exercício com streamlit](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2b.png)
 
 ## :date: 5. Datas de avaliações
 
