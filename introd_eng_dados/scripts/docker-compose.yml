@@ -1,0 +1,106 @@
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:9.4.1
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - xpack.license.self_generated.type=basic
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+    ports:
+      - "9200:9200"
+    volumes:
+      - elasticsearch-data:/usr/share/elasticsearch/data
+    networks:
+      - observability
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:9.4.1
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      - XPACK_SECURITY_ENABLED=false
+      - TELEMETRY_ENABLED=false
+    ports:
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+    networks:
+      - observability
+
+  apm-server:
+    image: docker.elastic.co/apm/apm-server:9.4.1
+    container_name: apm-server
+    command: >
+      apm-server -e
+        -E apm-server.host=0.0.0.0:8200
+        -E apm-server.auth.secret_token=changeme_apm_token
+        -E output.elasticsearch.hosts=["http://elasticsearch:9200"]
+        -E setup.kibana.host=kibana:5601
+    ports:
+      - "8200:8200"
+    depends_on:
+      - elasticsearch
+      - kibana
+    networks:
+      - observability
+
+  mysql:
+    image: mysql:8.4
+    container_name: mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root123
+      - MYSQL_DATABASE=appdb
+      - MYSQL_USER=appuser
+      - MYSQL_PASSWORD=app123
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./mysql/init:/docker-entrypoint-initdb.d
+    networks:
+      - observability
+
+  elastic-agent:
+    image: docker.elastic.co/beats/elastic-agent:9.4.1
+    container_name: elastic-agent
+    user: root
+    environment:
+      - FLEET_ENROLL=0
+    volumes:
+      - ./elastic-agent/elastic-agent.yml:/usr/share/elastic-agent/elastic-agent.yml:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    depends_on:
+      - elasticsearch
+      - mysql
+    networks:
+      - observability
+
+  flask-app:
+    build:
+      context: ./flask-app
+    container_name: flask-app
+    environment:
+      - ELASTIC_APM_SERVICE_NAME=flask-demo
+      - ELASTIC_APM_SERVER_URL=http://apm-server:8200
+      - ELASTIC_APM_SECRET_TOKEN=changeme_apm_token
+      - ELASTIC_APM_ENVIRONMENT=local
+      - MYSQL_HOST=mysql
+      - MYSQL_DATABASE=appdb
+      - MYSQL_USER=appuser
+      - MYSQL_PASSWORD=app123
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mysql
+      - apm-server
+    networks:
+      - observability
+
+volumes:
+  elasticsearch-data:
+  mysql-data:
+
+networks:
+  observability:
+    driver: bridge
