@@ -195,7 +195,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 10  | 29/abr | 3hs          | **Avaliação 2.** |
 | 11  | 06/mai | 3hs          | Exercício com docker (Metabase, Grafana e Superset). [Slide do exercício](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png). |
 | 12  | 13/mai | 3hs          | [Regressão linear](https://docs.google.com/presentation/d/1bd5UZ62wFb7F1XeXEFBFAdLA2KV2cpxM1ZBUJWU_oEE/edit?usp=view), [Arquivo .RIS](https://docs.google.com/presentation/d/1RvnS6XpWFp9sDyX4lIv4C78kUh-jJlRyYJgYEHChsnY/edit?usp=view), [Qualidade de dados](https://docs.google.com/presentation/d/1X0h6NF3qZruEwUrlNrTsXUxJggSu1njwMDV2m55eV2c/edit?usp=view). [Exercício com streamlit](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2b.png) |
-| 13  | 20/mai | 3hs          | Bibliometria, infometria, RIS, Bibliometria com vozviewer, Data stream, Apache kafka, apache Spark, OpenRefine. |
+| 13  | 20/mai | 3hs          | Data stream, Apache kafka, apache Spark, OpenRefine. |
 | 14  | 27/jun | 3hs          | Governança, Tendências na área de eng. dados. |
 | 15  | 03/jun | 3hs          | **Avaliação 3.** |
 
