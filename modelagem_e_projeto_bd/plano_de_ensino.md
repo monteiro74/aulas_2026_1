@@ -160,7 +160,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 8   | 23/abr | 3hs          | Joins no SQL Server. PostgreSQL. [Slides da aula 8](https://docs.google.com/presentation/d/1jmAxGz7c2tpHIvpa7oB0lJ7tV-3_A7QWQ3-ZyxaaaHE/edit?usp=view), [SQL Join](https://docs.google.com/presentation/d/16ATaBXYOPtc7OUAhh715z_kASGMB5WTn5etJYXog66s/edit?usp=view), [PostgreSQL](https://docs.google.com/presentation/d/1u9b-QLtyQhwWMEQpiYicMoJJTy9lWI_QVvacjBWegOY/edit?usp=view). |
 | 9   | 30/abr | 3hs          | [Blockchain](https://docs.google.com/presentation/d/14A_sBl8m0biqQ-OacXtdJcduzmdoir7vK_qF0iXOsCM/edit?usp=view), [Multichain](https://www.multichain.com/), [Exemplo com Multichain](https://docs.google.com/presentation/d/1Ng4jI5NWXqx7LG7eO6QWBxWPdl-c8fMOr7mZNrDox30/edit?usp=view). |
 |10   | 07/mai | 3hs          | Avaliação 2.  |
-|11   | 14/mai | 3hs          | Blockchain. Blockchain,Lab com Multichain. |
+|11   | 14/mai | 3hs          | [Blockchain](https://docs.google.com/presentation/d/10eENJ8_vdUhf_ILb_5_dKrnWebaDg_wUxWpB-rTHe7o/edit?usp=view), [Hyperledger](https://docs.google.com/presentation/d/1XU2lnBzmVifYQ4fL2qPtZag1bS4A82gyE4bDRRXJeM0/edit?usp=view), [Multichain 1](https://docs.google.com/presentation/d/1HEDzUTwbDBk2DblL6YoucX-ht2W1lu4gqZxTwe6W708/edit?usp=view), [Multichain 2](https://docs.google.com/presentation/d/1Di2dpfzU3oN3LEF-5zD1XXejP12NAH2AC-atWMdveW8/edit?usp=view). |
 |12   | 21/mai | 3hs          | Blockchain, NoSQL e bancos distribuídos. |
 |13   | 28/mai | 3hs          | Vetoriais, Blockchain de 2ª camada, Blockchain no DB, bancos multi modelo, tendências, artigos, FISCO BCOS, ML. |
 |14   | 11/jun | 3hs          | Revisão de bancos de dados distribuídos x blockchain. |
