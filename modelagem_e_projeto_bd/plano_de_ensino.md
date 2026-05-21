@@ -161,9 +161,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 9   | 30/abr | 3hs          | [Blockchain](https://docs.google.com/presentation/d/14A_sBl8m0biqQ-OacXtdJcduzmdoir7vK_qF0iXOsCM/edit?usp=view), [Multichain](https://www.multichain.com/), [Exemplo com Multichain](https://docs.google.com/presentation/d/1Ng4jI5NWXqx7LG7eO6QWBxWPdl-c8fMOr7mZNrDox30/edit?usp=view). |
 |10   | 07/mai | 3hs          | Avaliação 2.  |
 |11   | 14/mai | 3hs          | [Blockchain](https://docs.google.com/presentation/d/10eENJ8_vdUhf_ILb_5_dKrnWebaDg_wUxWpB-rTHe7o/edit?usp=view), [Hyperledger](https://docs.google.com/presentation/d/1XU2lnBzmVifYQ4fL2qPtZag1bS4A82gyE4bDRRXJeM0/edit?usp=view), [Multichain 1](https://docs.google.com/presentation/d/1HEDzUTwbDBk2DblL6YoucX-ht2W1lu4gqZxTwe6W708/edit?usp=view), [Multichain 2](https://docs.google.com/presentation/d/1Di2dpfzU3oN3LEF-5zD1XXejP12NAH2AC-atWMdveW8/edit?usp=view). |
-|12   | 21/mai | 3hs          |  |
-|13   | 28/mai | 3hs          |  |
-|14   | 11/jun | 3hs          |  |
+|12   | 21/mai | 3hs          | Bancos de dados distribuídos |
+|13   | 28/mai | 3hs          | NoSQL |
+|14   | 11/jun | 3hs          | NoSQL  |
 |15   | 18/jun | 3hs          |Avaliação 3. |
 
 
