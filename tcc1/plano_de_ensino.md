@@ -227,7 +227,7 @@ Total de entregas na 3a etapa: .<br>
 ---
 ## 📆 8. Calendário de bancas
 
-
+[Calendário de bancas](https://docs.google.com/spreadsheets/d/1EwQFPXRxcJN9Hn7BAvtGPc0XovEF3pRXWC8Over-3sI/edit?usp=view)
 
 ---
 ## 📺 9. Vídeos recomendados
