@@ -201,7 +201,7 @@ No momento os professores que temos no curso são:
 |2 | ALEX PABLO DE OLIVEIRA MORAES  | JOÃO RICARDO DOS SANTOS ROSA  |Plataforma web para automação da gestão de documentos de escritórios de contabilidade utilizando Ia generativa | ✔️ | ✔️  | |
 |3 | CARLA EDUARDA ALVES IZIDORIO  | JANECLER FOPPA | Avaliação da eficácia das métricas de desempenho em equipes que utilizam Scrum. | ✔️ | ✔️  | |
 |4 | CARLOS EDUARDO SPAK JUNCHER  | RAMILTON COSTA GOMES JUNIOR |  |✔️ |   | |
-|5 | DANIEL KRUGER FERREIRA CARDOSO  | JANECLER FOPPA |  | ✔️ |   | |
+|5 | DANIEL KRUGER FERREIRA CARDOSO  | JANECLER FOPPA | Docflow: plataforma web para gestão de onboarding de colaboradores  | ✔️ | ✔️  | |
 |6 | GABRIEL BEREGULA GOMES   | MAICON APARECIDO SARTIN |  | ✔️ |   | |
 |7 | GABRIEL DE ALMEIDA MORAES  | MAICON APARECIDO SARTIN |  | ✔️ |   | |
 |8 | GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN |  | ✔️ |   | |
