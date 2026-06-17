@@ -204,7 +204,7 @@ No momento os professores que temos no curso são:
 |5 | DANIEL KRUGER FERREIRA CARDOSO  | JANECLER FOPPA | Docflow: plataforma web para gestão de onboarding de colaboradores  | ✔️ | ✔️  | |
 |6 | GABRIEL BEREGULA GOMES   | MAICON APARECIDO SARTIN |  | ✔️ |   | |
 |7 | GABRIEL DE ALMEIDA MORAES  | MAICON APARECIDO SARTIN |  | ✔️ |   | |
-|8 | GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN |  | ✔️ |   | |
+|8 | GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes neurais convolucionais aplicadas a diagnose de doenças foliares da soja | ✔️ | ✔️  | |
 |9 | HENRIQUE AUGUSTO PEREIRA DE SA  | JULIANO FERNANDES DE AVILA |  | ✔️ |   | |
 |10| JULIO CESAR COLLI   | JULIANO FERNANDES DE AVILA |  | ✔️ |   | |
 |11| MATHEUS HENRIQUE LUDWIG  | ARIANY CARDOSO PEREIRA |  | ⚠️ |   | |
