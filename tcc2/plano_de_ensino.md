@@ -189,8 +189,8 @@ No momento os professores que temos no curso são:
 
 |Id |Aluno                           | Professor          | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
-| 1| ANA KAROLINE DA SILVA DE SOUSA | JULIANO FERNANDES DE AVILA  | Site para tutores e pet sitters	| ✔️ |  | |
-| 2| CAMILA WEBER  | EMILIANO SOARES MONTEIRO | SISTEMA PARA GESTÃO DE ASSISTÊNCIA TÉCNICA	|✔️ |  | |
+| 1| ANA KAROLINE DA SILVA DE SOUSA | JULIANO FERNANDES DE AVILA  | Site para tutores e pet sitters	| ✔️ | ✔️ | |
+| 2| CAMILA WEBER  | EMILIANO SOARES MONTEIRO | SISTEMA PARA GESTÃO DE ASSISTÊNCIA TÉCNICA	|✔️ | ✔️ | |
 | 3| CARLOS EDUARDO CONCEIÇÃO DA SILVA  | BENEVID FELIZ DA SILVA | Assistente Virtual Especializado em Drywall/Steel Frame	| ✔️ |  | |
 | 4| DEOCLIDES ORMOND BORGES  | FRANCISCO SANCHES BANHOS FILHO | Implantação de um servidor no cartório do 1° Ofício de Sorriso utilizando virtualização, ver estudo de caso	| ✔️ |  | |
 | 5| DOUGLAS FIORELO ANDERLE DE OLIVEIRA  | JOÃO RICARDO DOS SANTOS ROSA | Experiência do Usuário: Otica Geracional	| ✔️ |  | |
