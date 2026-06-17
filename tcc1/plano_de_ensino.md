@@ -197,7 +197,7 @@ No momento os professores que temos no curso são:
 
 |Id| Aluno  | Professor | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
-|1 | ADRIAN GEAN GOMES RODRIGUES   | BENEVID FELIX DA SILVA |  | ✔️ |   | |
+|1 | ADRIAN GEAN GOMES RODRIGUES   | BENEVID FELIX DA SILVA |  | ✔️ | ✔️  | |
 |2 | ALEX PABLO DE OLIVEIRA MORAES  | JOÃO RICARDO DOS SANTOS ROSA  |  | ✔️ |   | |
 |3 | CARLA EDUARDA ALVES IZIDORIO  | JANECLER FOPPA |  | ✔️ |   | |
 |4 | CARLOS EDUARDO SPAK JUNCHER  | RAMILTON COSTA GOMES JUNIOR |  |✔️ |   | |
