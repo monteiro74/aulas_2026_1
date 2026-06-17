@@ -197,7 +197,7 @@ No momento os professores que temos no curso são:
 | 6| EDUARDO POSSAMAI  | FRANCISCO SANCHES BANHOS FILHO  |  Pesca Digital: O uso da tecnologia para construção de audiência no Instagram	| ✔️  | ✔️ | |
 | 7| EMANUELLE ANJOLIN ZUNTINI  | BENEVID FELIZ DA SILVA | Aplicação de Modelos de Linguagem de Grande Escala (LLMs) na Automação do Atendimento Comercial em Concessionárias	| ✔️ | ✔️ | |
 | 8| FELIPE LEAL ALVES  | ELIAS ANTÔNIO MORGAN | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA	| ✔️ |  | |
-| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | Detecção de Gases Baseado em Princípio Biomimético	| ✔️ |  | |
+| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | Detecção de Gases Baseado em Princípio Biomimético	| ✔️ | ✔️ | |
 |10| GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja	| ✔️ |  | |
 |11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | Aplicação de Business Intelligence na Análise de Ocorrências Aeronáuticas: Desenvolvimento de Dashboards Interativos para a Aviação Civil Brasileira	| ✔️ |  | |
 |12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ |  | |
