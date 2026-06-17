@@ -211,7 +211,7 @@ No momento os professores que temos no curso são:
 |12| NICOLAS FELIPE HASSELSTROM DA VEIGA  | MAICON APARECIDO SARTIN |  | ✔️ |   | |
 |13| PAULO HENRIQUE ANDRADE GERALDI  | MAURO FRANCISCO DOS SANTOS JUNIOR |  |  ⚠️|   | |
 |14| SALATIEL BONFIM GOMES  | FRANCISCO SANCHES BANHOS FILHO | Migração de arquitetura de integração de dados de saúde: do modelo ETL legado para a interoperabilidade com o padrão HL7 FHIR | ✔️ | ✔️  | |
-|15| THIAGO SMERDECK PEREIRA  | BENEVID FELIX DA SILVA |  | ✔️ |   | |
+|15| THIAGO SMERDECK PEREIRA  | BENEVID FELIX DA SILVA | Sistema de monitoramento baseado em IoT e automação para pequenos centros de dados | ✔️ | ✔️  | |
 |16| VITOR FORTUNATO DE OLIVEIRA  | ELIAS ANTONIO MORGAN |  | ✔️ |   | |
 
 
