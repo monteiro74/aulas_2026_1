@@ -200,7 +200,7 @@ No momento os professores que temos no curso são:
 | 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | Detecção de Gases Baseado em Princípio Biomimético	| ✔️ | ✔️ | |
 |10| GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja	| ✔️ |  | |
 |11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | Aplicação de Business Intelligence na Análise de Ocorrências Aeronáuticas: Desenvolvimento de Dashboards Interativos para a Aviação Civil Brasileira	| ✔️ | ✔️ | |
-|12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ |  | |
+|12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ | ✔️ | |
 |13| JANAINA LIMA VIANA  | IVAN LUIZ PEDROSO PIRES | PONTE: plataforma de gerenciamento de dados agrícolas 	| ✔️ |  | |
 |14| JOÃO VICTOR POLONIATO BUSS  |MAICON APARECIDO SARTIN  | Arquitetura Inteligente para Extração e Estruturação de Informações em Sistemas de Operadoras de Saúde	| ✔️ |  | |
 |15| JOÃO VITOR THEODORO DE SOUZA  | BENEVID FELIZ DA SILVA | Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT	| ✔️ |  | |
