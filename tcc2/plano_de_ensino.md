@@ -203,8 +203,8 @@ No momento os professores que temos no curso são:
 |12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ | ✔️ | |
 |13| JANAINA LIMA VIANA  | IVAN LUIZ PEDROSO PIRES | PONTE: plataforma de gerenciamento de dados agrícolas 	| ✔️ | ✔️ | |
 |14| JOÃO VICTOR POLONIATO BUSS  |MAICON APARECIDO SARTIN  | Arquitetura Inteligente para Extração e Estruturação de Informações em Sistemas de Operadoras de Saúde	| ✔️ | ✔️ | |
-|15| JOÃO VITOR THEODORO DE SOUZA  | BENEVID FELIZ DA SILVA | Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT	| ✔️ |  | |
-|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  | JANECLER FOPPA  | Modelagem de Regras de Negócio da ANS para Sistemas de Cobrança em Operadoras de Saúde	| ✔️ |  | |
+|15| JOÃO VITOR THEODORO DE SOUZA  | BENEVID FELIZ DA SILVA | Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT	| ✔️ | ✔️ | |
+|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  | JANECLER FOPPA  | Modelagem de Regras de Negócio da ANS para Sistemas de Cobrança em Operadoras de Saúde	| ✔️ | ✔️ | |
 |17| LEONARDO LOPES RICCI  | JOAO RICARDO DOS SANTOS ROSA | DESENVOLVIMENTO DE UMA PLATAFORMA WEB PARA ACOMPANHAMENTO E MONITORAMENTO DE SAÚDE MENTAL	| ✔️ |  | |
 |18| MARCOS JUNIOR DA SILVA  | JOAO RICARDO DOS SANTOS ROSA | Análise de User eXperience e Usabilidade da Plataforma Lattes: Identificação de Barreiras e Recomendações de Melhoria, da área de Ciência da Computação.	| ✔️ |  | |
 |19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  | RAMILTON COSTA GOMES JUNIOR | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual	| ✔️ |  | |
