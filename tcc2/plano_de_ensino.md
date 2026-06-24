@@ -190,27 +190,27 @@ No momento os professores que temos no curso são:
 |Id |Aluno                           | Professor          | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
 | 1| ANA KAROLINE DA SILVA DE SOUSA | JULIANO FERNANDES DE AVILA  | Site para tutores e pet sitters	| ✔️ | ✔️ | |
-| 2| CAMILA WEBER  | EMILIANO SOARES MONTEIRO | SISTEMA PARA GESTÃO DE ASSISTÊNCIA TÉCNICA	|✔️ | ✔️ | |
+| 2| CAMILA WEBER  | EMILIANO SOARES MONTEIRO | SISTEMA PARA GESTÃO DE ASSISTÊNCIA TÉCNICA	|✔️ | ✔️ | ✔️ |
 | 3| CARLOS EDUARDO CONCEIÇÃO DA SILVA  | BENEVID FELIZ DA SILVA | Assistente Virtual Especializado em Drywall/Steel Frame	| ✔️ | ✔️ | |
 | 4| DEOCLIDES ORMOND BORGES  | FRANCISCO SANCHES BANHOS FILHO | Implantação de um servidor no cartório do 1° Ofício de Sorriso utilizando virtualização, ver estudo de caso	| ✔️ |  | |
 | 5| DOUGLAS FIORELO ANDERLE DE OLIVEIRA  | JOÃO RICARDO DOS SANTOS ROSA | Experiência do Usuário: Otica Geracional	| ✔️ | ✔️ | |
 | 6| EDUARDO POSSAMAI  | FRANCISCO SANCHES BANHOS FILHO  |  Pesca Digital: O uso da tecnologia para construção de audiência no Instagram	| ✔️  | ✔️ | |
 | 7| EMANUELLE ANJOLIN ZUNTINI  | BENEVID FELIZ DA SILVA | Aplicação de Modelos de Linguagem de Grande Escala (LLMs) na Automação do Atendimento Comercial em Concessionárias	| ✔️ | ✔️ | |
 | 8| FELIPE LEAL ALVES  | ELIAS ANTÔNIO MORGAN | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA	| ✔️ |  | |
-| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | Detecção de Gases Baseado em Princípio Biomimético	| ✔️ | ✔️ | |
+| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | Detecção de Gases Baseado em Princípio Biomimético	| ✔️ | ✔️ | ✔️ |
 |10| GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja	| ✔️ |  | |
 |11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | Aplicação de Business Intelligence na Análise de Ocorrências Aeronáuticas: Desenvolvimento de Dashboards Interativos para a Aviação Civil Brasileira	| ✔️ | ✔️ | |
 |12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ | ✔️ | |
 |13| JANAINA LIMA VIANA  | IVAN LUIZ PEDROSO PIRES | PONTE: plataforma de gerenciamento de dados agrícolas 	| ✔️ | ✔️ | |
-|14| JOÃO VICTOR POLONIATO BUSS  |MAICON APARECIDO SARTIN  | Arquitetura Inteligente para Extração e Estruturação de Informações em Sistemas de Operadoras de Saúde	| ✔️ | ✔️ | |
+|14| JOÃO VICTOR POLONIATO BUSS  |MAICON APARECIDO SARTIN  | Arquitetura Inteligente para Extração e Estruturação de Informações em Sistemas de Operadoras de Saúde	| ✔️ | ✔️ | ✔️ |
 |15| JOÃO VITOR THEODORO DE SOUZA  | BENEVID FELIZ DA SILVA | Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT	| ✔️ | ✔️ | |
-|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  | JANECLER FOPPA  | Modelagem de Regras de Negócio da ANS para Sistemas de Cobrança em Operadoras de Saúde	| ✔️ | ✔️ | |
+|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  | JANECLER FOPPA  | Modelagem de Regras de Negócio da ANS para Sistemas de Cobrança em Operadoras de Saúde	| ✔️ | ✔️ |✔️ |
 |17| LEONARDO LOPES RICCI  | JOAO RICARDO DOS SANTOS ROSA | DESENVOLVIMENTO DE UMA PLATAFORMA WEB PARA ACOMPANHAMENTO E MONITORAMENTO DE SAÚDE MENTAL	| ✔️ | ✔️ | |
 |18| MARCOS JUNIOR DA SILVA  | JOAO RICARDO DOS SANTOS ROSA | Análise de User eXperience e Usabilidade da Plataforma Lattes: Identificação de Barreiras e Recomendações de Melhoria, da área de Ciência da Computação.	| ✔️ | ✔️ | |
 |19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  | RAMILTON COSTA GOMES JUNIOR | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual	| ✔️ |  | |
 |20| PAULO HENRIQUE DOS SANTOS  | JOAO RICARDO DOS SANTOS ROSA | Avaliando a plataforma Ava como tecnologia assistiva para pessoas surdas e deficientes auditivos, sob a perspectiva da Acessibilidade, Usabilidade e User eXperience	| ✔️ | ✔️ | |
 |21| PEDRO SALVADOR DE ARAUJO | JULIANO FERNANDES DE AVILA | GESTÃO DE CONTRATOS DE LOCAÇÃO, da área de DESENVOLVIMENTO WEB	| ✔️ |  | |
-|22| RAFAELA BOHRER  | ELISANGELA DIAS BRUGNERA | Literacia Digital: Um Compilado de Jogos Digitais para Educação	| ✔️ | ✔️ | |
+|22| RAFAELA BOHRER  | ELISANGELA DIAS BRUGNERA | Literacia Digital: Um Compilado de Jogos Digitais para Educação	| ✔️ | ✔️ | ✔️|
 |23| WILHAN AZEVEDO DIONIZIO  | IVAN LUIZ PEDROSO PIRES | Plenatto - Sistema de Votação em Tempo Real para Câmara Municipal	| ✔️ | ✔️ | |
 |24| WILLIAN DE CARVALHO NOGUEIRA  | JANECLER FOPPA | Protótipo de Simulados on-line do Revalida em Ambiente Web	| ✔️ | ✔️ | |
 
