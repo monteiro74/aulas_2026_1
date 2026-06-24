@@ -198,7 +198,7 @@ No momento os professores que temos no curso são:
 |Id| Aluno  | Professor | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
 |1 | ADRIAN GEAN GOMES RODRIGUES   | BENEVID FELIX DA SILVA | Aplicação de técnicas de inteligência artificial na detecção de ataques de phishing por email. | ✔️ | ✔️  | |
-|2 | ALEX PABLO DE OLIVEIRA MORAES  | JOÃO RICARDO DOS SANTOS ROSA  |Plataforma web para automação da gestão de documentos de escritórios de contabilidade utilizando Ia generativa | ✔️ | ✔️  | ✔️ |
+|2 | ALEX PABLO DE OLIVEIRA MORAES  | JOÃO RICARDO DOS SANTOS ROSA  |Plataforma web para automação da gestão de documentos de escritórios de contabilidade utilizando Ia generativa | ✔️ | ✔️  | ⚠️ |
 |3 | CARLA EDUARDA ALVES IZIDORIO  | JANECLER FOPPA | Avaliação da eficácia das métricas de desempenho em equipes que utilizam Scrum. | ✔️ | ✔️  | |
 |4 | CARLOS EDUARDO SPAK JUNCHER  | RAMILTON COSTA GOMES JUNIOR |  |✔️ |   | |
 |5 | DANIEL KRUGER FERREIRA CARDOSO  | JANECLER FOPPA | Docflow: plataforma web para gestão de onboarding de colaboradores  | ✔️ | ✔️  | |
